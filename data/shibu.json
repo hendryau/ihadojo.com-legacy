@@ -1,0 +1,161 @@
+[
+	{
+		"instructor": [{"name": "Robert Menders", "rank": "8th Dan"}],
+		"addr": "Original Okinawa Karate Shido-kan Detroit 30333 Southfield Rd. Southfield, MI 48076 USA",
+		"phone": "(248) 646-8990",
+		"website": "mendersdojo.com",
+		"email": "rmenders@sbcglobal.net"
+	},
+	
+	{
+		"instructor": [{"name": "David Senak", "rank": "8th Dan"},
+		            {"name": "Michael Senak", "rank": "7th Dan"}],
+		"addr": "Maywood Academy of Okinawan Karate 47 W. Pleasant Ave PO Box 1161 Maywood, NJ 07607 USA",
+		"phone": "(201) 712-1416",
+		"website": "maywoodkarate.com",
+		"email": "kanes2@aol.com"
+	},
+	
+	{
+		"instructor": [{"name": "Lawrence Schwartz", "rank": "8th Dan"},
+		            {"name": "Lisa Schwartz", "rank": "7th Dan"}],
+		"addr": "YJCC Okinawan Karate YJCC of Bergen County 605 Pascack Rd. Washington Twp., NJ 07676 USA",
+		"phone": "(201) 666-6610",
+		"website": "yjccokinawankarate.com",
+		"email": "shihan@maclaunch.com lawrence.schwartz@ttinational.net"
+	},
+	
+	{
+		"instructor": [{"name": "Robert Curtis", "rank": "7th Dan"}],
+		"addr": "Virginia & D.C. Shido-kan 5411 Franconia Rd., Alexandria, VA 22310 USA",
+		"phone": "",
+		"website": "robertoshidokan.com",
+		"email": "robertoshidokan@gmail.com"
+	},
+	
+	{
+		"instructor": [{"name": "Allen Mayne", "rank":  "7th Dan"},
+		            {"name": "Michael Dantuma", "rank":  "7th Dan"}],
+		"addr": "Original Okinawa Karate 5260 Division Ave. SE Grand Rapids, MI 49548 USA",
+		"phone": "(616) 965-6932",
+		"website": "grandrapidsdojo.com",
+		"email": "info@grandrapidsdojo.com"
+	},
+	
+	{
+		"instructor": [{"name": "Paul Snader", "rank": "7th Dan"}],
+		"addr": "The Shido-kan Karate Dojo 12-68 River Rd., Fairlawn, NJ 07412 USA",
+		"phone": "(201) 794-1679",
+		"website": "fairlawndojo.com",
+		"email": "okki63@aol.com"
+	},
+	
+	{
+		"instructor": [{"name": "Jim Kass", "rank": "7th Dan"}],
+		"addr": "Original Okinawa Karate, Shido-kan Alaska Dojo 815 Set Net Drive, Kenai, AK 99611 USA",
+		"phone": "",
+		"website": "",
+		"email": "jrk.kassu@alaska.net"
+	},
+	
+	{
+		"instructor": [{"name": "Mark McCloud", "rank": "7th Dan"}],
+		"addr": "Original Okinawan Karate of Holt, LLC 2002 N. Cedar Street, Holt, MI 48842 USA",
+		"phone": "(517) 694-5001",
+		"website": "holtdojo.com",
+		"email": "friends@holtdojo.com"
+	},
+	
+	{
+		"instructor": [{"name": "Anthony Buscemi", "rank": "7th Dan"}],
+		"addr": "Okinawa Budokan 11 West Main St. Hicksville, NY 11801 USA",
+		"phone": "(516) 982-4249",
+		"website": "",
+		"email": "budokanli@yahoo.com"
+	},
+	
+	{
+		"instructor": [{"name": "Lou Shoha", "rank": "6th Dan"}],
+		"addr": "Bloomfield Hills Shido-kan Bloomfield MI USA",
+		"phone": "",
+		"website": "",
+		"email": "shoha@comcast.net"
+	},
+	
+	{
+		"instructor": [{"name": "Roy Paul", "rank": "6th Dan"},
+		           {"name": "Margaret Paul", "rank": "6th Dan"}],
+		"addr": "Shido-kan Canada Karate Dojo 470 Woodlawn Rd., East Guelph, Ontario Canada N1H 6J4",
+		"phone": "(519) 362-7745",
+		"website": "shidokancanada.com",
+		"email": "rmpaul1@hotmail.com"
+	},
+	
+	{
+		"instructor": [{"name": "Sharon Basinger", "rank": "6th Dan"},
+		           {"name": "Gordon Basinger", "rank": "4th Dan 1940-2002"}],
+		"addr": "Karate STL Okinawan Shido-kan Shorin-ryu PO Box 27663 Saint Louis, MO 63146-0063 USA",
+		"phone": "(314) 291-1234",
+		"website": "karatestl.com",
+		"email": "basinger@karatestl.com"
+	},
+	
+	{
+		"instructor": [{"name": "Robert Chartier", "rank": "6th Dan"},
+		           {"name": "Laura Chartier", "rank": "6th Dan"}],
+		"addr": "Okinawan Karate - Clawson Dojo 22 South Main St. Rear Entrance Clawson MI 48017 USA",
+		"phone": "(248) 852-8810",
+		"website": "okinawanclawsonkarate.com",
+		"email": "okidorh@wowway.com"
+	},
+	
+	{
+		"instructor": [{"name": "Mitch Cooperman", "rank": "6th Dan"}],
+		"addr": "Shido-kan Karate of Mahwah 300 Ridge Road, Mahwah, NJ 07430 USA",
+		"phone": "(201) 818-5120",
+		"website": "shidokanofmahwah.com",
+		"email": ""
+	},
+	
+	{
+		"instructor": [{"name": "Yujiro Uza", "rank": "5th Dan"}],
+		"addr": "Okinawa Shorin Ryu Karate Chicago Beikoku Shidokan 100 E. Algonquin Rd., Arlington Hts., IL 60005 USA",
+		"phone": "(972) 351-6405",
+		"website": "",
+		"email": "uzadojo@yahoo.com"
+	},
+	
+	{
+		"instructor": [{"name": "Greg Morales", "rank": "4th Dan"}],
+		"addr": "Mt. Pleasant Shido-kan, Mt. Pleasant, MI USA",
+		"phone": "(989) 621-4193",
+		"website": "",
+		"email": ""
+	},
+	
+	{
+		"instructor": [{"name": "Patrick Perfetti", "rank": "4th Dan"},
+		           {"name": "Amy Bond", "rank": "3rd Dan"}],
+		"addr": "Original Okinawa Karate - Cortland Cortland YWCA 14 Clayton Ave. Cortland NY 13045 USA",
+		"phone": "(607) 857-5180",
+		"website": "",
+		"email": "pperfetti@twcny.rr.com amy.nyshidokan@gmail.com"
+	},
+	
+	{
+		"instructor": [{"name": "John Dailey", "rank": "4th Dan"},
+		           {"name": "Erika Dailey", "rank": "2th Dan"}],
+		"addr": "Maryland Shido-kan Laurel, MD USA",
+		"phone": "(301) 805-9516",
+		"website": "kokoro-karate.com",
+		"email": "kokoro-karate@gmail.com"
+	},
+	
+	{
+		"instructor": [{"name": "Jeremy Brousseau", "rank": "4th Dan"}],
+		"addr": "ShoDan Karate 9 Weaver St. West Warwick, RI 02893 USA",
+		"phone": "(607) 857-5180",
+		"website": "",
+		"email": "pperfetti@twcny.rr.com amy.nyshidokan@gmail.com"
+	}
+]

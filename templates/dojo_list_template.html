@@ -1,0 +1,18 @@
+<table class="dojo-table" ng-if="ctrl.dojos.length > 0">
+
+  <tr><td>Instructor</b></td><td>Address</td><td>Website</td><td>Contact</td></tr>
+
+  <tr ng-repeat="dojo in ctrl.dojos">
+  	<td><div ng-repeat="instructor in dojo.instructor">
+  		{{instructor.name}}
+  		<br>
+  		<i>{{instructor.rank}}</i>
+  	</div></td>
+  	<td>{{dojo.addr}}</td>
+  	<td><a href="http://www.{{dojo.website}}" target="_blank">{{dojo.website}}</a></td>
+  	<td>{{dojo.email}}<br>{{dojo.phone}}</td>
+  </tr>
+
+</table>
+
+<p ng-if="ctrl.dojos.length == 0">Currently no {{ctrl.type}} dojos</p>

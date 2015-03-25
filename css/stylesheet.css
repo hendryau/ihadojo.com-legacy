@@ -1,0 +1,91 @@
+.iha-btn {
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+
+.iha-attention-btn {
+	background-color: red;
+	font-weight: bold;
+	color: white;
+	padding: 10px;
+}
+
+.dojo-table {
+	width: 100%;
+}
+
+td {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+}
+
+.iha-attention-btn:hover {
+	background-color: #FFCC00;
+	font-weight: bold;
+	color: black;
+	outline: none;
+}
+
+.iha-btn:focus {
+	background-color: #FFCC00;
+	color: black;
+	outline: none;
+}
+
+.iha-btn:hover {
+	background-color: #FFCC00;
+	color: black;
+	outline: none;
+}
+
+.iha-btn-selected {
+	background-color: #FFCC00;
+	color: black;
+	outline: none;
+}
+
+.iha-carousel {
+	float: none;
+	margin: 0 auto;
+}
+
+.iha-carousel-text {
+	text-align: left;
+	color: white;
+	text-shadow: 2px 2px #000000;
+}
+
+.footer {
+	background-color: black;
+	/*position: absolute;
+	bottom: 0;*/
+}
+
+.footer-txt {
+	color: white;
+}
+
+.small-ropes {
+	width: 75%;
+	height: 75%;
+}
+
+.img-with-txt {
+	float: left;
+	margin-right: 5px;
+}
+
+.itinerary {
+	margin: 0 auto;
+}
+
+p {
+	font-size: 16px;
+	text-align: justify;
+}
+
+li {
+	font-size: 16px;
+}

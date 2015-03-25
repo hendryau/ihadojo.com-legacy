@@ -1,0 +1,11 @@
+<div ng-if="ctrl.currentEvt != null">
+  <div class="alert alert-danger">Sensei is currently out of town. <b>Reason:</b> "{{ctrl.currentEvt.info}}" <b>Return Date:</b> {{ctrl.currentEvt.end}}</div>
+</div>
+
+<table class="itinerary">
+  <tr><td colspan="2"><b>Itinerary {{ctrl.itin.year}}</b> <i>(last updated {{ctrl.itin.updated}})</i></td></tr>
+  <tr ng-repeat="month in ctrl.months">
+    <td><b>{{month}} {{ctrl.itin.year}}</b></td>
+    <td><div ng-repeat="evt in ctrl.itin[month]">{{evt.start}}-{{evt.end}}<br>{{evt.info}}</div></td>
+  </tr>
+</table>
