@@ -1,0 +1,19 @@
+<!-- TODO display alert of next event, do not show ihaOnly events here -->
+
+<div ng-repeat="evt in ctrl.evts" ng-init="passed = ctrl.hasPassed(evt)">
+  <h2 ng-class="{passedEvent: passed}">{{evt.title}} <small>{{ctrl.getDisplayDate(evt)}}</small></h2>
+  <div ng-if="ctrl.showDetails(evt)"class="panel panel-default panel-body">
+    <div ng-if="evt.location != null && evt.location.length > 0">
+	  <p ng-class="{passedEvent: passed}"><b>Location:</b> {{evt.location}}</p>
+    </div>
+	  
+    <div ng-if="evt.host != null && evt.host.length > 0">
+      <p ng-class="{passedEvent: passed}"><b>Host:</b> {{evt.host}}</p>
+    </div>  
+	  
+    <div ng-if="evt.notes != null && evt.notes.length > 0">
+      <p ng-class="{passedEvent: passed}">{{evt.notes}}</p>
+    </div>
+  </div>
+  
+</div>

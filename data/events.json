@@ -1,0 +1,132 @@
+[
+	{
+		"start": "December 25, 2014",
+		"end": "January 26, 2015",
+		"title": "Iha Sensei Japan Visit",
+		"location": "",
+		"ihaOnly": "true",
+		"host": "",
+		"notes": ""
+	},
+
+	{
+		"start": "February 6, 2015",
+		"end": "February 8, 2015",
+		"title": "Virginia & DC Shido-kan Karate Seminar",
+		"location": "Virginia & DC Shido-kan Karate Alexandria, VA",
+		"ihaOnly": "false",
+		"host": "Sensei Roberto Curtis",
+		"notes": ""
+	},
+	
+	{
+		"start": "February 25, 2015",
+		"end": "March 3, 2015",
+		"title": "Hawaii Visit",
+		"location": "",
+		"ihaOnly": "true",
+		"host": "Sensei Caryl Akamichi",
+		"notes": ""
+	},
+	
+	{
+		"start": "March 13, 2015",
+		"end": "March 13, 2015",
+		"title": "Shido-kan Training Seminar",
+		"location": "Holt Junior High School, Holt MI 48842 USA",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": "Advanced Youth: 5-6:30PM Adults 7-9PM"
+	},
+	
+	{
+		"start": "March 21, 2015",
+		"end": "March 21, 2015",
+		"title": "Dan Test",
+		"location": "Hombu, 2018 East Michigan Ave., Lansing, MI 48912 USA",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": ""
+	},
+	
+	{
+		"start": "April 10, 2015",
+		"end": "April 12, 2015",
+		"title": "East Coast Dojos Seminar",
+		"location": "TBA",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": ""
+	},
+	
+	{
+		"start": "April 24, 2015",
+		"end": "April 26, 2015",
+		"title": "Shido-kan Canada Seminars",
+		"location": "Guelph, London, and Waterloo, Ontario, Canada",
+		"ihaOnly": "false",
+		"host": ["Senseis Roy & Maragaret Paul", "Larry Bowlby", "Fortunato Restagno"], 
+		"notes": ""
+	},
+	
+	{
+		"start": "July 16, 2015",
+		"end": "July 16, 2015",
+		"title": "Dan Test",
+		"location": "Lansing Center",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": ""
+	},
+	
+	{
+		"start": "July 17, 2015",
+		"end": "July 19, 2015",
+		"title": "Beikoku Shido-kan Association National Training Seminar (NTS)",
+		"location": "Lansing Center, Lansing MI USA",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": "Conference discount rate lodging is available at the Lansing Center Radisson (hotel connects to the Lansing Center via bridge walkway)."
+	},
+	
+	{
+		"start": "September 8, 2015",
+		"end": "September 15, 2015",
+		"title": "Shido-kan Brazil 25th Anniversary Celebration",
+		"location": "Brazil",
+		"ihaOnly": "false",
+		"host": "Sensei Kazunori Yonamine",
+		"notes": ""
+	},
+	
+	{
+		"start": "October 23, 2015",
+		"end": "October 25, 2015",
+		"title": "East Coast Dojos Seminar",
+		"location": "TBA",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": ""
+	},
+	
+	{
+		"start": "November 13, 2015",
+		"end": "November 15, 2015",
+		"title": "Karate STL Seminar",
+		"location": "",
+		"ihaOnly": "false",
+		"host": "Sense Sherry Basinger",
+		"notes": ""
+	},
+	
+	{
+		"start": "November 21, 2015",
+		"end": "November 21, 2015",
+		"title": "Dan Test",
+		"location": "TBA",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": ""
+	}
+	
+]

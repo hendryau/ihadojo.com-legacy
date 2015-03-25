@@ -57,6 +57,11 @@ td {
 	text-shadow: 2px 2px #000000;
 }
 
+.passedEvent {
+	color: grey;
+	text-decoration: line-through;
+}
+
 .association-map {
 	width: 75%;
 	height: 400px;
@@ -87,7 +92,7 @@ td {
 }
 
 p {
-	font-size: 16px;
+	/*font-size: 16px;*/
 	text-align: justify;
 }
 
