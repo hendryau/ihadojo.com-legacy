@@ -57,6 +57,11 @@ td {
 	text-shadow: 2px 2px #000000;
 }
 
+.association-map {
+	width: 75%;
+	height: 400px;
+}
+
 .footer {
 	background-color: black;
 	/*position: absolute;
