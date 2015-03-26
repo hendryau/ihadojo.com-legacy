@@ -5,7 +5,7 @@
 angular.module('ihaDojo')
 	.directive('associationMap', ['$http', function($http) {
 		return {
-			templateUrl: 'templates/association_map_template.html',
+			template: '<div id="association-map" class="association-map"></div>',
 			link: function(scope, element, attrs) {
 				var mapCanvas = document.getElementById('association-map');
 				var mapOptions = {

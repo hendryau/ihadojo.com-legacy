@@ -1,3 +1,7 @@
+/**
+ * @author hendryau
+ * 
+ */
 angular.module('ihaDojo')
 	.directive('evtView', ['$http', function($http) {
 		return {
