@@ -33,11 +33,19 @@ angular.module('ihaDojo')
 			return false;
 		}
 		
-		ctrl.showDetails = function(evt) {
-			if (ctrl.hasPassed(evt)) {
-				return false;
-			}
+		ctrl.getCurrentEvt = function() {
+			var now = new Date();
+			var currentEvt = null;
 			
-			return evt.location;
+			ctrl.evts.forEach(function(evt) {
+				var start = new Date(evt.start);
+				var end = new Date(evt.end);
+				if (start < now && end > now) {
+						currentEvt = evt;
+						return;
+				}
+			});
+				
+			return currentEvt;
 		}
 	}]);

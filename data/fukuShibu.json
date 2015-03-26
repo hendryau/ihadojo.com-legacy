@@ -4,7 +4,9 @@
 		"addr": "Shido-kan Israel Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
 		"phone": "+972-50-640-7061",
 		"website": "shidokanisrael.com",
-		"email": "amit@shidokanisrael.com"
+		"email": "amit@shidokanisrael.com",
+		"lat": 31.764240,
+		"lng": 35.149502
 	},
 	
 	{
@@ -12,7 +14,9 @@
 		"addr": "Grand River Karate St. Louis Auditorium, Waterloo, Ontario, Canada Mailing Address: c/o Fortunato Restagno 62 Golden Meadow Crescent Kitchener, Ontario N2N 2L9 Canada",
 		"phone": "",
 		"website": "grkarate.com",
-		"email": "fortunato@grkarate.com"
+		"email": "fortunato@grkarate.com",
+		"lat": 43.462075,
+		"lng": -80.51714
 	},
 	
 	{
@@ -20,7 +24,9 @@
 		"addr": "Original Okinawa Karate Shido-kan Karate-do Vernon, NJ USA",
 		"phone": "(973) 702-2000",
 		"website": "",
-		"email": "cdfshidokan@yahoo.com"
+		"email": "cdfshidokan@yahoo.com",
+		"lat": 41.194702,
+		"lng": -74.493794
 	},
 	
 	{
@@ -28,7 +34,9 @@
 		"addr": "London Shido-kan Karate Dojo 1010 Dundas St. London, Ontario Canada N5W 3A3",
 		"phone": "(519) 495-7039",
 		"website": "londonshidokan.com",
-		"email": "ljbowlby@rogers.com"
+		"email": "ljbowlby@rogers.com",
+		"lat": 42.993063,
+		"lng": -81.217423
 	},
 	
 	{
@@ -36,7 +44,9 @@
 		"addr": "Shido-kan Tampa Tampa, Florida USA",
 		"phone": "(813) 789-9005",
 		"website": "",
-		"email": "shidokantampa@gmail.com"
+		"email": "shidokantampa@gmail.com",
+		"lat": 27.950575,
+		"lng": -82.457178
 	},
 	
 	{
@@ -44,7 +54,9 @@
 		"addr": "Kenai Boy's and Girl's Club Original Okinawa Karate Do, Shorin Ryu Shido-kan, Kenai Alaska",
 		"phone": "(813) 789-9005",
 		"website": "",
-		"email": "shidokantampa@gmail.com"
+		"email": "shidokantampa@gmail.com",
+		"lat": 60.554444,
+		"lng": -151.258333
 	},
 	
 	{
@@ -52,7 +64,9 @@
 		"addr": "Shido-kan Tel Aviv Hagefen 8 Ramat Gan, 52546, Israel",
 		"phone": "+972-54-494-8084",
 		"website": "shidokanisrael.com",
-		"email": "yishay@shidokanisrael.com"
+		"email": "yishay@shidokanisrael.com",
+		"lat": 32.085300,
+		"lng": 34.781768
 	},
 	
 	{
@@ -60,7 +74,9 @@
 		"addr": "Charlotte Shido-kan Charlotte, MI 48813 USA",
 		"phone": "(517) 490-8123",
 		"website": "charlottedojo@group.facebook.com",
-		"email": "buddahbelly55@aol.com"
+		"email": "buddahbelly55@aol.com",
+		"lat": 42.563648,
+		"lng": -84.835821
 	},
 	
 	{
@@ -68,7 +84,9 @@
 		"addr": "Curitiba Shido-kan Curitiba, Brazil",
 		"phone": "",
 		"website": "",
-		"email": ""
+		"email": "",
+		"lat": -25.428954,
+		"lng": -49.267137
 	},
 	
 	{
@@ -76,6 +94,8 @@
 		"addr": "UL 3rd Frunzenskaya 18 Apy. #35 Moscow, 119048 Russia",
 		"phone": "",
 		"website": "",
-		"email": ""
+		"email": "",
+		"lat": 55.755826,
+		"lng": 37.6173
 	}
 ]

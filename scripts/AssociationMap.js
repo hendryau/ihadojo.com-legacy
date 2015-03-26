@@ -10,24 +10,17 @@ angular.module('ihaDojo')
 				var mapCanvas = document.getElementById('association-map');
 				var mapOptions = {
 					center: new google.maps.LatLng(42.701848,-84.482172), //hombu latlng
-					zoom: 2
+					zoom: 1
 				}
 				
 				var map = new google.maps.Map(mapCanvas, mapOptions);
-				var geocoder = new google.maps.Geocoder();
 
 				function placeMarker(type, dojo) {
-					geocoder.geocode( { 'address': dojo.addr}, function(results, status) {
-						  if (status == google.maps.GeocoderStatus.OK) {
-						    new google.maps.Marker({
-						        position: new google.maps.LatLng(results[0].geometry.location.k,results[0].geometry.location.D),
-						        map: map,
-						        title: dojo.instructor[0].name
-						    });
-						  } else {
-						    console.log('failed to geocode ' + dojo.addr);
-						  }
-						});
+					new google.maps.Marker({
+						position: new google.maps.LatLng(dojo.lat, dojo.lng),
+						map: map,
+						title: dojo.instructor[0].name
+					});
 				}
 				
 				$http.get('data/hombu.json').then(function(hombu) {
