@@ -5,11 +5,11 @@
 angular.module('ihaDojo')
 	.directive('associationMap', ['$http', function($http) {
 		return {
-			template: '<div id="association-map" class="association-map"></div>',
+			template: '<div id="association-map" class="iha-map"></div>',
 			link: function(scope, element, attrs) {
 				var mapCanvas = document.getElementById('association-map');
 				var mapOptions = {
-					center: new google.maps.LatLng(42.701848,-84.482172), //hombu latlng
+					center: new google.maps.LatLng(42.733363, -84.521598), //hombu latlng
 					zoom: 1
 				}
 				
@@ -22,6 +22,14 @@ angular.module('ihaDojo')
 						icon: 'imgs/marker.gif',
 						title: dojo.instructor[0].name
 					});
+				}
+				
+				if (attrs.hombu) {
+					$http.get('data/hombu.json').then(function(hombu) {
+						placeMarker('hombu', hombu.data[0]);
+						map.zoom = 15;
+					});
+					return;
 				}
 				
 				$http.get('data/hombu.json').then(function(hombu) {
