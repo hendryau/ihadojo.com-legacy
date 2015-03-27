@@ -19,6 +19,7 @@ angular.module('ihaDojo')
 					new google.maps.Marker({
 						position: new google.maps.LatLng(dojo.lat, dojo.lng),
 						map: map,
+						icon: 'imgs/marker.gif',
 						title: dojo.instructor[0].name
 					});
 				}
