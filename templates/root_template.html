@@ -1,4 +1,14 @@
-<nav ng-if="rootCtrl.isMobile" class="navbar navbar-default"></nav>
+<nav ng-if="rootCtrl.isMobile" class="navbar navbar-default navbar">
+  <a class="navbar-brand" href="index.html"><img src="imgs/ropes_menu.png"></a>
+  
+  <span class="dropdown" dropdown>
+    <span class="glyphicon glyphicon-menu-hamburger navbar-toggle dropdown-toggle" dropdown-toggle></span>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="sensei.html">Sensei Iha</a></li>
+    </ul>
+  </span>
+</nav>
 
 <h1 class="text-center">Beikoku Shidokan Karatedo Association</h1>
 
