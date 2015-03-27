@@ -1,21 +1,19 @@
-<!-- TODO display alert of next event, do not show ihaOnly events here -->
-
-<div ng-repeat="evt in ctrl.evts" ng-init="passed = ctrl.hasPassed(evt)">
-  <h3 ng-class="{passedEvent: passed}">{{evt.title}}<br><small>{{ctrl.getDisplayDate(evt)}}</small></h3>
-  <div class="evt-panel-padding">
-    <div ng-if="!ctrl.hasPassed(evt)"class="panel panel-default panel-body evt-panel">
+<div ng-repeat="evt in ctrl.evts" ng-init="past = ctrl.isPastEvt(evt)">
+  
+  <h3 ng-class="{pastEvent: past}">{{evt.title}}<br><small>{{ctrl.getDisplayDate(evt)}}</small></h3>
+    
+    <div ng-if="!ctrl.isPastEvt(evt)"class="panel panel-default panel-body">
       <div ng-if="evt.location != null && evt.location.length > 0">
-	    <p ng-class="{passedEvent: passed}"><b>Location:</b> {{evt.location}}</p>
+	    <p ng-class="{pastEvent: past}"><b>Location:</b> {{evt.location}}</p>
       </div>
 	  
       <div ng-if="evt.host != null && evt.host.length > 0">
-        <p ng-class="{passedEvent: passed}"><b>Host:</b> {{evt.host}}</p>
+        <p ng-class="{pastEvent: past}"><b>{{ctrl.getHostLabel(evt)}}:</b> {{ctrl.getHostString(evt)}}</p>
       </div>  
 	  
       <div ng-if="evt.notes != null && evt.notes.length > 0">
-        <p ng-class="{passedEvent: passed}"><b>Details:</b> {{evt.notes}}</p>
+        <p ng-class="{pastEvent: past}"><b>Details:</b> {{evt.notes}}</p>
       </div>
     </div>
-  </div>
   
 </div>

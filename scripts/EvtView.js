@@ -29,27 +29,38 @@ angular.module('ihaDojo')
 			return evt.start + ' - ' + evt.end;
 		}
 		
-		ctrl.hasPassed = function(evt) {
-			var endDate = new Date(evt.end)
-			if (new Date() > endDate) {
+		ctrl.isPastEvt = function(evt) {
+			var endDate = new Date(evt.end);
+			var now = new Date();
+			if (now.getTime() > endDate.getTime()) {
 				return true;
 			}
 			return false;
 		}
 		
-		ctrl.getCurrentEvt = function() {
-			var now = new Date();
-			var currentEvt = null;
+		ctrl.getHostLabel = function(evt) {
+			if (evt.host instanceof Array && evt.host.length > 0) {
+				return 'Hosts';
+			}
 			
-			ctrl.evts.forEach(function(evt) {
-				var start = new Date(evt.start);
-				var end = new Date(evt.end);
-				if (start < now && end > now) {
-						currentEvt = evt;
-						return;
-				}
-			});
-				
-			return currentEvt;
+			return 'Host';
 		}
+		
+		ctrl.getHostString = function(evt) {
+			if (typeof evt.host === 'string') {
+				return evt.host;
+			}
+			
+			var result = '';
+			for (var i=0; i<evt.host.length; i++) {
+				result += evt.host[i];
+				if (i+1 === evt.host.length) {
+					break;
+				}
+				result += ', ';
+			}
+			
+			return result;
+		}
+		
 	}]);

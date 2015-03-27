@@ -11,6 +11,10 @@
 	padding: 10px;
 }
 
+.iha-lst-btn {
+	width: auto;
+}
+
 .dojo-table {
 	width: 100%;
 }
@@ -57,7 +61,7 @@ td {
 	text-shadow: 2px 2px #000000;
 }
 
-.passedEvent {
+.pastEvent {
 	color: grey;
 	text-decoration: line-through;
 }
@@ -80,9 +84,9 @@ td {
 	color: white;
 }
 
-.evt-panel-padding {
-	padding-left: 5px;
-	padding-right: 5px;
+.foot-notes {
+	font-size: 13px;
+	font-style: italic;
 }
 
 .img-with-txt {
