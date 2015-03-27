@@ -1,3 +1,5 @@
+<nav ng-if="rootCtrl.isMobile" class="navbar navbar-default"></nav>
+
 <h1 class="text-center">Beikoku Shidokan Karatedo Association</h1>
 
 <div class="row">
@@ -5,27 +7,30 @@
 
   <div class="col-md-2 text-center">
 
-    <a href="index.html"><img src="imgs/ropes_lrg.png"></a>
+    <div ng-if="!rootCtrl.isMobile">
+      <a href="index.html"><img src="imgs/ropes_lrg.png"></a>
 
-    <br>
-    <br>
-    
-    <iha-menu></iha-menu>
-
-    <br>
-    <br>
-
-    <div class="text-center">
-      <div>
-        Beikoku Shidokan Association<br>
-        2018 E. Michigan Ave.<br>
-        Lansing, MI 48912 USA<br>
-      </div>
       <br>
-      <div>
-        Tel: (517) 482-3217<br>
-        Email: mail@ihadojo.com
-      </div>
+      <br>
+    
+      <iha-menu></iha-menu>
+
+      <br>
+      <br>
+      
+      <div class="text-center">
+        <div>
+          Beikoku Shidokan Association<br>
+          2018 E. Michigan Ave.<br>
+          Lansing, MI 48912 USA<br>
+        </div>
+        <br>
+        <div>
+          Tel: (517) 482-3217<br>
+          Email: mail@ihadojo.com
+        </div>
+    </div>
+      
     </div>
 
   </div>
