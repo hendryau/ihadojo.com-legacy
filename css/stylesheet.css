@@ -11,6 +11,11 @@
 	padding: 10px;
 }
 
+.iha-content-panel {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
 .iha-lst-btn {
 	width: auto;
 }
