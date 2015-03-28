@@ -2,9 +2,7 @@
  * @author hendryau
  * 
  */
-angular.module('ihaDojo', ['ui.bootstrap']);
-
-angular.module('ihaDojo')
+angular.module('ihaDojo', ['ui.bootstrap'])
 	.controller('CarouselCtrl', ['$scope', function($scope) {
 		$scope.interval = 5000;
 		
