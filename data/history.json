@@ -44,7 +44,7 @@
 		
 		{
 			"date": "1890",
-			"info": "Military Draft system imposed on Okinawa",
+			"info": "Military Draft system imposed on Okinawa.",
 			"sources": [13]
 		},
 		
@@ -68,37 +68,43 @@
 		
 		{
 			"date": "1900",
-			"info": "Choshin Chibana studies under Anko Itosu",
+			"info": "Choshin Chibana studied under Anko Itosu.",
 			"sources": [3, 4]
 		},
 		
 		{
 			"date": "1901",
-			"info": "Anko Itosu taught karate at the Shuri Jinjo Elementary school as an extra-curricular activity",
+			"info": "Anko Itosu taught karate at the Shuri Jinjo Elementary school as an extra-curricular activity.",
 			"sources": [4, 7, 13]
 		},
 		
 		{
 			"date": "1903",
-			"info": "Shinpan Gusukuma began study with Anko Itosu in Kubagawa. He studied Sanchin kata at Kanryo Higaonna's dojo and also studied with many other masters under all of the major styles. He selected Shorin-ryu as his main concentration.",
+			"info": "Shinpan Gusukuma began training under Anko Itosu in Kubagawa. He studied Sanchin kata at Kanryo Higaonna's dojo and also studied with many other masters under all of the major styles. He selected Shorin-ryu as his main concentration.",
 			"sources": [4, 14]
 		},
 		
 		{
 			"date": "1905",
-			"info": "Anko Itosu taught karate at the Okinawa Prefectural Middle School (later called the Okinawa Prefecture Dai-ichi Middle School) where Chomo Hanashiro was the chief instructor. Itosu also taught at the Okinawa Prefectural Men's Teacher's Training College where Kentsu Yabu was the chief instructor. Itosu began the development of the five pinan kata for beginning students to learn the fundamentals of technique.",
+			"info": "Anko Itosu taught karate at the Okinawa Prefectural Middle School (later called the Okinawa Prefecture Dai-ichi Middle School) where Chomo Hanashiro was the chief instructor. Itosu also taught at the Okinawa Prefectural Men's Teacher's Training College where Kentsu Yabu was the chief instructor. Itosu developing the five pinan kata to teach beginners fundamentals.",
 			"sources": [4, 11, 12, 13]
 		},
 		
 		{
 			"date": "1905",
-			"info": "The characters translating as \"empty hand\" were first used for the word \"karate.\"",
+			"info": "The characters translating to \"empty hand\" (karate) were first used to describe the Okinawan martial art.",
 			"sources": [1]
 		},
 		
 		{
 			"date": "1908",
-			"info": "Anko Itosu petitioned to introduce karate into public school curriculum. The \"10 articles\" (\"ten lessons of to-te\") document was written to report on the results of his teaching in the schools and to petition for its dissemination in more schools. 4, 11, 13 Shinpan Gusukuma was drafted into the Japanese army. After service, he continued training under Anko Itosu. Later, Gusukuma became a school teacher at Dai Ichi Elementary School in Shuri and taught karate. He opened a dojo at Taira Village, Shuri.",
+			"info": "Anko Itosu petitioned to introduce karate into public school curriculum. The \"10 articles\" (\"ten lessons of to-te\") document was written to report on the results of his teaching in the schools and to petition for its dissemination in more schools.",
+			"sources" :  [4, 11, 13]
+		},
+		
+		{
+			"date": "1908",
+			"info": "Shinpan Gusukuma was drafted into the Japanese army. After service, he continued training under Anko Itosu. Later, Gusukuma became a school teacher at Dai Ichi Elementary School in Shuri and taught karate. He opened a dojo at Taira Village, Shuri.",
 			"sources": [4]
 		},
 		
@@ -110,7 +116,7 @@
 		
 		{
 			"date": "March 26th, 1915",
-			"info": "Anko Itosu dies in Yamakawa Village.",
+			"info": "Anko Itosu passed away in Yamakawa Village.",
 			"sources": [1, 13]
 		},
 		
@@ -134,13 +140,13 @@
 		
 		{
 			"date": "1922",
-			"info": "Gichin Funakoshi demonstrates at a Japanese Sports Show in Tokyo",
+			"info": "Gichin Funakoshi demonstrated at a Japanese Sports Show in Tokyo.",
 			"sources": [7]
 		},
 		
 		{
 			"date": "1926",
-			"info": "Beginning of Showa era. \"Okinawa Karate Club\" founded. Karate and kobudo spread overseas.",
+			"info": "Beginning of the Showa era. \"Okinawa Karate Club\" founded. Karate and kobudo spread overseas.",
 			"sources": [1, 4, 7, 9]
 		},
 		
@@ -158,8 +164,14 @@
 		
 		{
 			"date": "1933",
-			"info": "Okinawa Athletic Association officially recognized by the Dai Nippon Butoku Kai. Katsuya Miyahira began study in April with Choshin Chibana at Okinawa Prefecture Number 1 School (now Shuri High School). On the same day, Choshin Chibana changed the kanji for \"Shorei-ryu\" to \"Shorin-ryu\" to try to avoid confusion with the Chinese shaolin name and to give the style an Okinawan name. 7, 14. Miyahira also studied with Anbun Tokuda (another student of Itosu) in September.",
+			"info": "Okinawa Athletic Association officially recognized by the Dai Nippon Butoku Kai. Katsuya Miyahira began study in April with Choshin Chibana at Okinawa Prefecture Number 1 School (now Shuri High School). On the same day, Choshin Chibana changed the kanji for \"Shorei-ryu\" to \"Shorin-ryu\" to try to avoid confusion with the Chinese shaolin name and to give the style an Okinawan name.",
 			"sources": [4]
+		},
+
+		{
+			"date": "1933",
+			"info": "Miyahira studied with Anbun Tokuda (another student of Itosu) in September.",
+			"sources": [7, 14]
 		},
 		
 		{
@@ -206,13 +218,13 @@
 		
 		{
 			"date": "1952",
-			"info": "Shinpan Gusukuma moves dojo to Naminoue-gu, Naha. Seikichi Iha continues his training with Gusukuma there.",
+			"info": "Shinpan Gusukuma moved dojo to Naminoue-gu, Naha. Seikichi Iha continues his training with Gusukuma there.",
 			"sources": [14]
 		},
 		
 		{
 			"date": "1952",
-			"info": "Katsuya Miyahira moves to Naha City in September.",
+			"info": "Katsuya Miyahira moved to Naha City in September.",
 			"sources": []
 		},
 		
@@ -224,13 +236,13 @@
 		
 		{
 			"date": "1954",
-			"info": "Shinpan Gusukuma dies.",
+			"info": "Shinpan Gusukuma passed away.",
 			"sources": [1]
 		},
 		
 		{
 			"date": "1954",
-			"info": "Chosin Chibana serves as Karate Advisor and Senior Instructor for the Shuri City Police Precinct (until 1958)",
+			"info": "Chosin Chibana served as Karate Advisor and Senior Instructor for the Shuri City Police Precinct (until 1958)",
 			"sources": [4]
 		},
 		
@@ -254,7 +266,7 @@
 		
 		{
 			"date": "1958",
-			"info": "Katsuya Miyahira receives Kyoshi title from Dainippon Butokukai in April.",
+			"info": "Katsuya Miyahira received Kyoshi title from Dainippon Butokukai in April.",
 			"sources": [2, 6]
 		},
 		
@@ -272,7 +284,7 @@
 		
 		{
 			"date": "1963",
-			"info": "Seikichi Iha is promoted to 5th Dan, Shihan",
+			"info": "Seikichi Iha promoted to 5th Dan, Shihan.",
 			"sources": [6]
 		},
 		
@@ -290,7 +302,7 @@
 		
 		{
 			"date": "1964",
-			"info": "Choshin Chibana is diagnosed with terminal throat cancer.",
+			"info": "Choshin Chibana diagnosed with terminal throat cancer.",
 			"sources": [6]
 		},
 		
@@ -302,7 +314,7 @@
 		
 		{
 			"date": "1965",
-			"info": "Iha returns to Okinawa and teaches karate to Marines in Futenma. Promoted to 6th Dan. Opened dojo in hometown of Nishihara.",
+			"info": "Iha returned to Okinawa and taught karate to Marines in Futenma. Promoted to 6th Dan. Opened dojo in hometown of Nishihara.",
 			"sources": [6]
 		},
 		
@@ -326,25 +338,30 @@
 		
 		{
 			"date": "1968",
-			"info": "Choshin Chibana awarded 4th Degree of Merit Zuiho. Decorated by Emperor of Japan.4, 3 Interview with Seikichi Iha, Seizun Kina and Kensai Taba published in April issue of \"Black Belt\" magazine.",
-			"sources": []
+			"info": "Choshin Chibana awarded 4th Degree of Merit Zuiho. Decorated by Emperor of Japan.",
+			"sources": [4, 3]
+		},
+		
+		{
+			"date" : "1968",
+			"info": "Interview with Seikichi Iha, Seizun Kina and Kensai Taba published in April issue of \"Black Belt\" magazine."
 		},
 		
 		{
 			"date": "February 26th, 1968",
-			"info": "Choshin Chibana dies. Katsuya Miyahria becomes President of the Okinawa Shorin-Ryu Karate-do Association.",
+			"info": "Choshin Chibana passed away. Katsuya Miyahria became President of the Okinawa Shorin-Ryu Karate-do Association.",
 			"sources": [2, 8]
 		},
 		
 		{
 			"date": "1968",
-			"info": "Seikichi Iha visited Guam with Seigi Shiroma. Shiroma opens a dojo in Guam",
+			"info": "Seikichi Iha visited Guam with Seigi Shiroma. Shiroma opened a dojo in Guam",
 			"sources": [14]
 		},
 		
 		{
 			"date": "1968",
-			"info": "Seikichi Iha opens Shido-kan dojo in Los Angeles",
+			"info": "Seikichi Iha opened Shido-kan dojo in Los Angeles.",
 			"sources": [6]
 		},
 		
@@ -398,7 +415,7 @@
 		
 		{
 			"date": "March 12th, 1989",
-			"info": "Seikichi Iha receives title of 9th Dan, Hanshi (master) from Katsuya Miyahira and the Okinawa Prefecture Karate Federation.",
+			"info": "Seikichi Iha received title of 9th Dan, Hanshi (master) from Katsuya Miyahira and the Okinawa Prefecture Karate Federation.",
 			"source": [6, 14]
 		},
 		
@@ -409,8 +426,8 @@
 		},
 		
 		{
-			"date": "1996",
-			"info": "Beikoku Shido-kan Karate-do 20th Anniversary Celebration in East Lansing, Michigan during March. Katsuya Miyahira visited Michigan to participate.",
+			"date": "March, 1996",
+			"info": "Beikoku Shido-kan Karate-do 20th Anniversary Celebration in East Lansing, Michigan. Katsuya Miyahira visited Michigan to participate.",
 			"source": []
 		},
 		
@@ -428,7 +445,7 @@
 		
 		{
 			"date": "November 28th, 2010",
-			"info": "Katsuya Miyahira dies.",
+			"info": "Katsuya Miyahira passed away.",
 			"source": []
 		}
 	],
