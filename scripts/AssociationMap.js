@@ -16,10 +16,21 @@ angular.module('ihaDojo')
 				var map = new google.maps.Map(mapCanvas, mapOptions);
 
 				function placeMarker(type, dojo) {
+					var icon = '';
+					if (type === 'hombu') {
+						icon = 'imgs/marker-yel.png';
+					}
+					else if (type === 'shibu') {
+						icon = 'imgs/marker-red.png';
+					}
+					else if (type === 'fukuShibu') {
+						icon = 'imgs/marker-blu.png'
+					}
+					
 					new google.maps.Marker({
 						position: new google.maps.LatLng(dojo.lat, dojo.lng),
 						map: map,
-						icon: 'imgs/marker.gif',
+						icon: icon,
 						title: dojo.instructor[0].name
 					});
 				}
