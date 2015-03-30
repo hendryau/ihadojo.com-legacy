@@ -1,7 +1,8 @@
 [
 	{
 		"instructor": [{"name": "Amit Michaeli", "rank": "4th Dan"}],
-		"addr": "Shido-kan Israel Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
+		"dojo": "Shido-kan Israel",
+		"addr": "Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
 		"phone": "+972-50-640-7061",
 		"website": "shidokanisrael.com",
 		"email": "amit@shidokanisrael.com",
@@ -11,7 +12,8 @@
 	
 	{
 		"instructor": [{"name": "Fortunato Restagno", "rank": "5th Dan"}],
-		"addr": "Grand River Karate St. Louis Auditorium, Waterloo, Ontario, Canada Mailing Address: c/o Fortunato Restagno 62 Golden Meadow Crescent Kitchener, Ontario N2N 2L9 Canada",
+		"dojo": "Grand River Karate",
+		"addr": "St. Louis Auditorium, Waterloo, Ontario, Canada Mailing Address: c/o Fortunato Restagno 62 Golden Meadow Crescent Kitchener, Ontario N2N 2L9 Canada",
 		"phone": "",
 		"website": "grkarate.com",
 		"email": "fortunato@grkarate.com",
@@ -21,7 +23,8 @@
 	
 	{
 		"instructor": [{"name": "Christopher Defranco", "rank": "5th Dan"}],
-		"addr": "Original Okinawa Karate Shido-kan Karate-do Vernon, NJ USA",
+		"dojo": "Original Okinawa Karate Shido-kan Karate-do",
+		"addr": "Vernon, NJ USA",
 		"phone": "(973) 702-2000",
 		"website": "",
 		"email": "cdfshidokan@yahoo.com",
@@ -31,7 +34,8 @@
 	
 	{
 		"instructor": [{"name": "Larry Bowlby", "rank": "4th Dan"}],
-		"addr": "London Shido-kan Karate Dojo 1010 Dundas St. London, Ontario Canada N5W 3A3",
+		"dojo": "London Shido-kan",
+		"addr": "Karate Dojo 1010 Dundas St. London, Ontario Canada N5W 3A3",
 		"phone": "(519) 495-7039",
 		"website": "londonshidokan.com",
 		"email": "ljbowlby@rogers.com",
@@ -41,7 +45,8 @@
 	
 	{
 		"instructor": [{"name": "Jason Azzarone", "rank": "4th Dan"}],
-		"addr": "Shido-kan Tampa Tampa, Florida USA",
+		"dojo": "Shido-kan Tampa",
+		"addr": "Tampa, Florida USA",
 		"phone": "(813) 789-9005",
 		"website": "",
 		"email": "shidokantampa@gmail.com",
@@ -51,7 +56,8 @@
 	
 	{
 		"instructor": [{"name": "Ray Purugganan", "rank": "4th Dan"}],
-		"addr": "Kenai Boy's and Girl's Club Original Okinawa Karate Do, Shorin Ryu Shido-kan, Kenai Alaska",
+		"dojo": "Original Okinawa Karate Do, Shorin Ryu Shido-kan",
+		"addr": "Kenai Boy's and Girl's Club, Kenai Alaska",
 		"phone": "(813) 789-9005",
 		"website": "",
 		"email": "shidokantampa@gmail.com",
@@ -61,7 +67,8 @@
 	
 	{
 		"instructor": [{"name": "Yishay Haspel", "rank": "2nd Dan"}],
-		"addr": "Shido-kan Tel Aviv Hagefen 8 Ramat Gan, 52546, Israel",
+		"dojo": "Shido-kan Tel Aviv",
+		"addr": "Hagefen 8 Ramat Gan, 52546, Israel",
 		"phone": "+972-54-494-8084",
 		"website": "shidokanisrael.com",
 		"email": "yishay@shidokanisrael.com",
@@ -71,7 +78,8 @@
 	
 	{
 		"instructor": [{"name": "Scott A. Kramer", "rank": "3rd Dan"}],
-		"addr": "Charlotte Shido-kan Charlotte, MI 48813 USA",
+		"dojo": "Charlotte Shido-kan",
+		"addr": "Charlotte, MI 48813 USA",
 		"phone": "(517) 490-8123",
 		"website": "charlottedojo@group.facebook.com",
 		"email": "buddahbelly55@aol.com",
@@ -81,7 +89,8 @@
 	
 	{
 		"instructor": [{"name": "J.J. Martinez", "rank": "2nd Dan"}],
-		"addr": "Curitiba Shido-kan Curitiba, Brazil",
+		"dojo": "Curitiba Shido-kan",
+		"addr": "Curitiba, Brazil",
 		"phone": "",
 		"website": "",
 		"email": "",
@@ -91,6 +100,7 @@
 	
 	{
 		"instructor": [{"name": "Dmitry Uritsky", "rank": "1st Dan"}],
+		"dojo": "Shidokan Russia",
 		"addr": "UL 3rd Frunzenskaya 18 Apy. #35 Moscow, 119048 Russia",
 		"phone": "",
 		"website": "",

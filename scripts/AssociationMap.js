@@ -18,7 +18,7 @@ angular.module('ihaDojo')
 				function placeMarker(type, dojo) {
 					var icon = '';
 					if (type === 'hombu') {
-						icon = 'imgs/marker-yel.png';
+						icon = 'imgs/marker-ylw.png';
 					}
 					else if (type === 'shibu') {
 						icon = 'imgs/marker-red.png';

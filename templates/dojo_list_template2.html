@@ -1,0 +1,17 @@
+<div ng-repeat="dojo in ctrl.dojos">
+  <h3>{{dojo.dojo}}<br>
+    <small>
+      <span ng-repeat="instrctr in dojo.instructor">{{instrctr.name}}, <i>{{instrctr.rank}}</i><span ng-if="$index + 1 < dojo.instructor.length">,&nbsp</span>
+      </span>
+    </small>
+  </h3>
+  <p ng-if="dojo.addr != null || dojo.website != null || dojo.phone != null">
+    <span ng-if="dojo.addr != null && dojo.addr.length > 0">{{dojo.addr}}<br></span>
+    <span ng-if="dojo.website != null && dojo.website.length > 0"><a href="https://{{dojo.website}}">{{dojo.website}}</a><br></span>
+    <span ng-if="dojo.phone != null && dojo.phone.length > 0">{{dojo.phone}}</span>  
+  </p>
+</div>
+
+<div ng-if="ctrl.dojos.length === 0">
+  <p>No {{ctrl.type}} dojos to display.</p>
+</div>
