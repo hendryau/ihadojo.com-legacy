@@ -2,17 +2,21 @@
   
   <h3 ng-class="{pastEvent: past}">{{evt.title}}<br><small>{{ctrl.getDisplayDate(evt)}}</small></h3>
     
-    <div ng-if="!ctrl.isPastEvt(evt)"class="panel panel-default panel-body">
+    <div ng-if="!past"class="panel panel-default panel-body">
       <div ng-if="evt.location != null && evt.location.length > 0">
-	    <p ng-class="{pastEvent: past}"><b>Location:</b> {{evt.location}}</p>
+	    <p><b>Location:</b> {{evt.location}}</p>
       </div>
 	  
       <div ng-if="evt.host != null && evt.host.length > 0">
-        <p ng-class="{pastEvent: past}"><b>{{ctrl.getHostLabel(evt)}}:</b> {{ctrl.getHostString(evt)}}</p>
+        <p><b>{{ctrl.getHostLabel(evt)}}:</b> {{ctrl.getHostString(evt)}}</p>
       </div>  
 	  
       <div ng-if="evt.notes != null && evt.notes.length > 0">
-        <p ng-class="{pastEvent: past}"><b>Details:</b> {{evt.notes}}</p>
+        <p><b>Details:</b> {{evt.notes}}</p>
+      </div>
+      
+      <div ng-if="evt.link != null && evt.link.length >0">
+        <p><b>Click <a href="{{evt.link}}">here</a> for more info.
       </div>
     </div>
   

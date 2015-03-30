@@ -6,7 +6,8 @@
 		"location": "",
 		"ihaOnly": "true",
 		"host": "",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 
 	{
@@ -16,7 +17,8 @@
 		"location": "Virginia & DC Shido-kan Karate Alexandria, VA",
 		"ihaOnly": "false",
 		"host": "Sensei Roberto Curtis",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -26,7 +28,8 @@
 		"location": "",
 		"ihaOnly": "true",
 		"host": "Sensei Caryl Akamichi",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -36,7 +39,8 @@
 		"location": "Holt Junior High School, Holt MI 48842 USA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": "Advanced Youth: 5-6:30PM Adults 7-9PM"
+		"notes": "Advanced Youth: 5-6:30PM Adults 7-9PM",
+		"link": ""
 	},
 	
 	{
@@ -46,7 +50,8 @@
 		"location": "Hombu, 2018 East Michigan Ave., Lansing, MI 48912 USA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -56,7 +61,8 @@
 		"location": "TBA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -66,7 +72,8 @@
 		"location": "Guelph, London, and Waterloo, Ontario, Canada",
 		"ihaOnly": "false",
 		"host": ["Sensei Roy Paul", "Sensei Maragaret Paul", "Fortunato Restagno", "Larry Bowlby"], 
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -76,7 +83,8 @@
 		"location": "Lansing Center",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -86,7 +94,8 @@
 		"location": "Lansing Center, Lansing MI USA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": "Conference discount rate lodging is available at the Lansing Center Radisson (hotel connects to the Lansing Center via bridge walkway)."
+		"notes": "Conference discount rate lodging is available at the Lansing Center Radisson (hotel connects to the Lansing Center via bridge walkway).",
+		"link": "nts.html"
 	},
 	
 	{
@@ -96,7 +105,8 @@
 		"location": "Brazil",
 		"ihaOnly": "false",
 		"host": "Sensei Kazunori Yonamine",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -106,7 +116,8 @@
 		"location": "TBA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -116,7 +127,8 @@
 		"location": "St. Louis, MO",
 		"ihaOnly": "false",
 		"host": "Sensei Sherry Basinger",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	},
 	
 	{
@@ -126,7 +138,8 @@
 		"location": "TBA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": ""
+		"notes": "",
+		"link": ""
 	}
 	
 ]
