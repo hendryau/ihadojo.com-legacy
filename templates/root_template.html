@@ -1,19 +1,12 @@
-<nav ng-if="rootCtrl.isMobile" class="navbar navbar-default navbar">
+<nav ng-if="rootCtrl.isMobile" ng-init="collapseMenu=true">
+  <div class="navbar iha-navbar">
+    <a class="navbar-brand" href="index.html"><img src="imgs/ropes-brand.png"></a>
+    <span class="glyphicon glyphicon-menu-hamburger navbar-toggle" ng-click="collapseMenu=!collapseMenu"></span>
+  </div>
   
-  <a class="navbar-brand" href="index.html"><img src="imgs/ropes_menu2.png"></a>
-
-  <span class="dropdown" dropdown>
-    <span class="glyphicon glyphicon-menu-hamburger navbar-toggle dropdown-toggle" dropdown-toggle></span>
-    <ul class="dropdown-menu" role="menu">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="sensei.html">Sensei Iha</a></li>
-      <li><a href="association.html">Association</a></li>
-      <li><a href="hombu.html">Hombu</a></li>
-      <li><a href="history.html">History</a></li>
-      <li><a href="events.html">Events</a></li>
-    </ul>
-  </span>
-
+  <div class="text-center" collapse="collapseMenu">
+    <iha-menu></iha-menu>
+  </div>
 </nav>
 
 <h1 class="text-center">Beikoku Shidokan Karatedo Association</h1>

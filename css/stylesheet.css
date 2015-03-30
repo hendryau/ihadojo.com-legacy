@@ -30,6 +30,15 @@ td {
 	padding: 5px;
 }
 
+.navbar-toggle {
+	color: #FFCC00;
+}
+
+.navbar-toggle:focus, .navbar-toggle:hover {
+	background-color: #FFCC00;
+	color: black
+}
+
 .iha-attention-btn:hover {
 	background-color: #FFCC00;
 	font-weight: bold;
@@ -69,6 +78,10 @@ td {
 .pastEvent {
 	color: grey;
 	text-decoration: line-through;
+}
+
+.iha-navbar {
+	background-color: black;	
 }
 
 .iha-map {
