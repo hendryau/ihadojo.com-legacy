@@ -5,7 +5,7 @@
 angular.module('ihaDojo')
 	.directive('historyView', ['$http', function($http) {
 		return {
-			templateUrl: 'templates/history_view_template.html',
+			templateUrl: 'templates/directives/history_view_template.html',
 			controller: 'HistoryCtrl',
 			controllerAs: 'ctrl',
 			link: function(scope, element, attrs) {

@@ -9,7 +9,7 @@ angular.module('ihaDojo')
 				showPastEvts: '&',
 				evtCount: '='
 			},
-			templateUrl: 'templates/evt_view_template.html',
+			templateUrl: 'templates/directives/evt_view_template.html',
 			controller: 'EvtCtrl',
 			controllerAs: 'ctrl', 
 			link: function(scope, element, attrs) {
