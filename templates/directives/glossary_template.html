@@ -1,0 +1,4 @@
+<div ng-repeat="term in ctrl.glossary">
+  <h3>{{term.term}}<br><small>{{term.meaning}}</small></h3>
+  <span ng-if="term.notes != null && term.notes.length > 0">{{term.notes}}</span>
+</div>
