@@ -8,7 +8,7 @@ angular.module('ihaDojo')
 			scope: {},
 			controller: 'DojoListCtrl',
 			controllerAs: 'ctrl',
-			templateUrl: 'templates/dojo_list_template2.html',
+			templateUrl: 'templates/dojo_list_template.html',
 			link: function(scope, element, attrs) {
 				scope.ctrl.type = attrs.type;
 				if (scope.ctrl.type === 'hombu') {
