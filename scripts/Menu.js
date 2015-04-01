@@ -3,7 +3,7 @@
  * 
  */
 angular.module('ihaDojo')
-	.directive('ihaMenu', ['$location', function($location) {
+	.directive('menu', ['$location', function($location) {
 		return {
 			templateUrl: 'templates/directives/menu_template.html',
 			controller: 'MenuCtrl',
