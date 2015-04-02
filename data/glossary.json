@@ -9,7 +9,7 @@
 	{
 		"term": "chakugan",
 		"pronunciation": "",
-		"meaning": "focus (specifically with your eyes)"
+		"meaning": "focus (specifically with one's eyes)"
 	},
 	
 	{
@@ -64,7 +64,7 @@
 		"term": "arigato gozaimasu",
 		"pronunciation": "",
 		"meaning": "thank you",
-		"notes": "Adding the \"ita\" ending to the phrase indicates past tense. So, when Sensei corrects you during class, an appropriate you could say \"arigato gozaimasu\". At the end of class, after bowing out, it would be correct to say \"arigato gozaimashita\". Adding \"domo\" to the beginning of the phrase... \"domo arigato gozaimasu\" would translate to \"thank you very much\"."
+		"notes": "notes"
 	},
 	
 	{
@@ -92,9 +92,9 @@
 	},
 	
 	{
-		"term": "TODO ask matt",
+		"term": "embusen",
 		"pronunciation": "",
-		"meaning": "line in the sand"
+		"meaning": "pattern of kata"
 	},
 	
 	{
@@ -117,7 +117,7 @@
 	},
 	
 	{
-		"term": "kyoske",
+		"term": "kyosuke",
 		"pronunciation": "",
 		"meaning": "attention"
 	},
@@ -141,7 +141,7 @@
 	},
 	
 	{
-		"term": "haiyaku",
+		"term": "hayaku",
 		"pronunciation": "",
 		"meaning": "fast"
 	},
@@ -150,13 +150,83 @@
 		"term": "kiai",
 		"pronunciation": "",
 		"meaning": "shout",
-		"notes": ""
+		"notes": "notes"
+	},
+	
+	{
+		"term": "dan",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "hanshi",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kyoshi",
+		"pronunciation": "",
+		"meaning": "shout",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kyu",
+		"pronunciation": "",
+		"meaning": "shout",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "obi",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shihan",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shuri-te",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "tomari-te",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "naha-te",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "sempai",
+		"pronunciation": "",
+		"meaning": "put def here",
+		"notes": "notes"
 	},
 	
 	{
 		"term": "makiwara",
 		"pronunciation": "",
 		"meaning": "striking post",
-		"notes": ""
+		"notes": "notes"
 	}
 ]

@@ -10,7 +10,9 @@ angular.module('ihaDojo')
 			controllerAs: 'ctrl',
 			link: function(scope, element, attrs) {
 				$http.get('data/glossary.json').then(function(response) {
-					scope.ctrl.glossary = response.data;
+					scope.ctrl.glossary = response.data.sort(function(a, b) {
+						return a.term > b.term;
+					});
 				});
 			}
 		}
