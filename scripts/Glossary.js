@@ -11,7 +11,17 @@ angular.module('ihaDojo')
 			link: function(scope, element, attrs) {
 				$http.get('data/glossary.json').then(function(response) {
 					scope.ctrl.glossary = response.data.sort(function(a, b) {
-						return a.term > b.term;
+						var a2 = a.term.toLowerCase();
+						var b2 = b.term.toLowerCase();
+						
+						if (a2 < b2) {
+							return -1;
+						}
+						if (a2 > b2) {
+							return 1;
+						}
+						
+						return 0;
 					});
 				});
 			}
