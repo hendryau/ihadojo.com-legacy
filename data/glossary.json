@@ -9,7 +9,7 @@
 	{
 		"term": "chakugan",
 		"pronunciation": "",
-		"meaning": "focus (specifically with one's eyes)"
+		"meaning": "unified attention, strategy of eye control"
 	},
 	
 	{
@@ -125,7 +125,7 @@
 	{
 		"term": "yoi",
 		"pronunciation": "",
-		"meaning": "ready"
+		"meaning": "readiness"
 	},
 	
 	{
@@ -212,22 +212,36 @@
 	{
 		"term": "shuri-te",
 		"pronunciation": "",
-		"meaning": "put def here",
+		"meaning": "Style from the Shuri region",
 		"notes": "notes"
 	},
 	
 	{
 		"term": "tomari-te",
 		"pronunciation": "",
-		"meaning": "put def here",
+		"meaning": "Style from the Tomari region.",
 		"notes": "notes"
 	},
 	
 	{
 		"term": "naha-te",
 		"pronunciation": "",
-		"meaning": "put def here",
+		"meaning": "Style from the Naha region.",
 		"notes": "notes"
+	},
+	
+	{
+		"term": "makiwara",
+		"pronunciation": "",
+		"meaning": "striking post",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "maai",
+		"pronunciation": "",
+		"meaning": "distance between objects",
+		"notes": ""
 	},
 	
 	{
@@ -238,9 +252,93 @@
 	},
 	
 	{
-		"term": "makiwara",
+		"term": "tanden",
 		"pronunciation": "",
-		"meaning": "striking post",
+		"meaning": "center of power",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kime",
+		"pronunciation": "",
+		"meaning": "focus",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kukuchi",
+		"pronunciation": "",
+		"meaning": "instantaneous and relaxed outpower",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "chinkuchi",
+		"pronunciation": "",
+		"meaning": "unified power",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "atefuwa",
+		"pronunciation": "",
+		"meaning": "power control",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "hyoshi",
+		"pronunciation": "",
+		"meaning": "timing, rhythm",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kamae",
+		"pronunciation": "",
+		"meaning": "positioning",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "dachi",
+		"pronunciation": "",
+		"meaning": "stance",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "mushin",
+		"pronunciation": "",
+		"meaning": "nothing extra",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shimeijurasan",
+		"pronunciation": "",
+		"meaning": "perfect refinement",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "muchimi",
+		"pronunciation": "",
+		"meaning": "refined movement",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kokyu-ho",
+		"pronunciation": "",
+		"meaning": "breath control",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shizentai",
+		"pronunciation": "",
+		"meaning": "natural body position",
 		"notes": "notes"
 	}
 ]
