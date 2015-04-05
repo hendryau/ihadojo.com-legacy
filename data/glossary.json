@@ -149,7 +149,7 @@
 	{
 		"term": "kiai",
 		"pronunciation": "",
-		"meaning": "shout",
+		"meaning": "shout, attention, volition",
 		"notes": "notes"
 	},
 	
@@ -416,6 +416,27 @@
 		"term": "kansetsu",
 		"pronunciation": "",
 		"meaning": "natural joint manipulation",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "gouri",
+		"pronunciation": "",
+		"meaning": "reason",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "gouho",
+		"pronunciation": "",
+		"meaning": "legal or true form",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kiyoyei",
+		"pronunciation": "",
+		"meaning": "fellowship/friendship",
 		"notes": "notes"
 	},
 	
