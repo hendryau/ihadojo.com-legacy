@@ -212,7 +212,7 @@
 	{
 		"term": "shuri-te",
 		"pronunciation": "",
-		"meaning": "Style from the Shuri region",
+		"meaning": "Style from the Shuri region.",
 		"notes": "notes"
 	},
 	
@@ -339,6 +339,90 @@
 		"term": "shizentai",
 		"pronunciation": "",
 		"meaning": "natural body position",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "fudoshin",
+		"pronunciation": "",
+		"meaning": "immovable heart",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "okokoru",
+		"pronunciation": "",
+		"meaning": "big-heartedness, generosity of spirit",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kiyoson",
+		"pronunciation": "",
+		"meaning": "cooperation",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "nagare",
+		"pronunciation": "",
+		"meaning": "flow",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shinzen-tai waza",
+		"pronunciation": "",
+		"meaning": "natural body technique",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "uke",
+		"pronunciation": "",
+		"meaning": "to receive",
+		"notes": "note that the common english translation is \"block\""
+	},
+	
+	{
+		"term": "tori",
+		"pronunciation": "",
+		"meaning": "to receive",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shinitai ichi nyo",
+		"pronunciation": "",
+		"meaning": "spirit, technique, and body are one",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "shikaku",
+		"pronunciation": "",
+		"meaning": "dead corner",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kuzushi",
+		"pronunciation": "",
+		"meaning": "to remove balance",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "kansetsu",
+		"pronunciation": "",
+		"meaning": "natural joint manipulation",
+		"notes": "notes"
+	},
+	
+	{
+		"term": "gyaku",
+		"pronunciation": "",
+		"meaning": "joint locking manipulation",
 		"notes": "notes"
 	}
 ]
