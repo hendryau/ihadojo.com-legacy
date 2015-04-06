@@ -9,7 +9,8 @@
 	{
 		"term": "chakugan",
 		"pronunciation": "",
-		"meaning": "unified attention, strategy of eye control"
+		"meaning": "unified attention, strategy of eye control",
+		"notes": "\"When facing a single tree, if you look at a single one of its red leaves, you will not see all the others. When the eye is not set on any one leaf, and you face the tree with nothing at all in mind, any number of leaves are visible to the eye without limit. But if a single leaf holds the eye, it will be as if the remaining leaves were not there\". - Takuan Sōhō"
 	},
 	
 	{
@@ -64,7 +65,7 @@
 		"term": "arigato gozaimasu",
 		"pronunciation": "",
 		"meaning": "thank you",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
@@ -125,7 +126,8 @@
 	{
 		"term": "yoi",
 		"pronunciation": "",
-		"meaning": "readiness"
+		"meaning": "readiness",
+		"notes": "All kata begin and end in a position of balance from which nearly all possible attacks can be thwarted through body shifting. Transitions in kata almost always \"pass through yoi...\" weight shifts to a point of balance from which it is possible to move in many directions with optimal power and timing."
 	},
 	
 	{
@@ -149,8 +151,8 @@
 	{
 		"term": "kiai",
 		"pronunciation": "",
-		"meaning": "shout, attention, volition",
-		"notes": "notes"
+		"meaning": "unified intention, volition, shout",
+		"notes": ""
 	},
 	
 	{
@@ -170,71 +172,71 @@
 	{
 		"term": "dan",
 		"pronunciation": "",
-		"meaning": "put def here",
-		"notes": "notes"
+		"meaning": "",
+		"notes": ""
 	},
 	
 	{
 		"term": "hanshi",
 		"pronunciation": "",
-		"meaning": "put def here",
-		"notes": "notes"
+		"meaning": "",
+		"notes": ""
 	},
 	
 	{
 		"term": "kyoshi",
 		"pronunciation": "",
-		"meaning": "todo",
-		"notes": "notes"
+		"meaning": "",
+		"notes": ""
 	},
 	
 	{
 		"term": "kyu",
 		"pronunciation": "",
 		"meaning": "shout",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "obi",
 		"pronunciation": "",
-		"meaning": "put def here",
-		"notes": "notes"
+		"meaning": "belt",
+		"notes": ""
 	},
 	
 	{
 		"term": "shihan",
 		"pronunciation": "",
-		"meaning": "put def here",
-		"notes": "notes"
+		"meaning": "",
+		"notes": ""
 	},
 	
 	{
 		"term": "shuri-te",
 		"pronunciation": "",
 		"meaning": "Style from the Shuri region.",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "tomari-te",
 		"pronunciation": "",
 		"meaning": "Style from the Tomari region.",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "naha-te",
 		"pronunciation": "",
 		"meaning": "Style from the Naha region.",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "makiwara",
 		"pronunciation": "",
 		"meaning": "striking post",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
@@ -247,203 +249,231 @@
 	{
 		"term": "sempai",
 		"pronunciation": "",
-		"meaning": "put def here",
-		"notes": "notes"
+		"meaning": "",
+		"notes": ""
 	},
 	
 	{
 		"term": "tanden",
 		"pronunciation": "",
 		"meaning": "center of power",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "kime",
 		"pronunciation": "",
 		"meaning": "focus",
-		"notes": "notes"
+		"notes": ""
+	},
+	
+	{
+		"term": "tenshin",
+		"pronunciation": "",
+		"meaning": "body angling",
+		"notes": "Gain an advantageous position by moving to the outside (left or right) of the opponent."
+	},
+	
+	{
+		"term": "kankaku",
+		"pronunciation": "",
+		"meaning": "to perceive power/intention in a partner through touch",
+		"notes": ""
 	},
 	
 	{
 		"term": "kukuchi",
 		"pronunciation": "",
 		"meaning": "instantaneous and relaxed outpower",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "chinkuchi",
 		"pronunciation": "",
 		"meaning": "unified power",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
-		"term": "atefuwa",
+		"term": "ateifa",
 		"pronunciation": "",
 		"meaning": "power control",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "hyoshi",
 		"pronunciation": "",
 		"meaning": "timing, rhythm",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "kamae",
 		"pronunciation": "",
 		"meaning": "positioning",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "dachi",
 		"pronunciation": "",
 		"meaning": "stance",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "mushin",
 		"pronunciation": "",
 		"meaning": "nothing extra",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "shimeijurasan",
 		"pronunciation": "",
 		"meaning": "perfect refinement",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "muchimi",
 		"pronunciation": "",
-		"meaning": "refined movement",
-		"notes": "notes"
+		"meaning": "sticky hands",
+		"notes": "Match/follow a partner's movement to anticipate, control, and redirect attacks."
 	},
 	
 	{
 		"term": "kokyu-ho",
 		"pronunciation": "",
 		"meaning": "breath control",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "shizentai",
 		"pronunciation": "",
 		"meaning": "natural body position",
-		"notes": "notes"
+		"notes": "The goal of kata is natural and spontaneous movement."
 	},
 	
 	{
 		"term": "fudoshin",
 		"pronunciation": "",
 		"meaning": "immovable heart",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "okokoru",
 		"pronunciation": "",
 		"meaning": "big-heartedness, generosity of spirit",
-		"notes": "notes"
+		"notes": ""
+	},
+	
+	{
+		"term": "shingitai ichi nyo",
+		"pronunciation": "",
+		"meaning": "spirit, technique, and body are one",
+		"notes": ""
 	},
 	
 	{
 		"term": "kiyoson",
 		"pronunciation": "",
 		"meaning": "cooperation",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "nagare",
 		"pronunciation": "",
 		"meaning": "flow",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "shinzen-tai waza",
 		"pronunciation": "",
 		"meaning": "natural body technique",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "uke",
 		"pronunciation": "",
 		"meaning": "to receive",
-		"notes": "note that the common english translation is \"block\""
+		"notes": "note that the common English translation is \"block\""
 	},
 	
 	{
 		"term": "tori",
 		"pronunciation": "",
 		"meaning": "to receive",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "shinitai ichi nyo",
 		"pronunciation": "",
 		"meaning": "spirit, technique, and body are one",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "shikaku",
 		"pronunciation": "",
 		"meaning": "dead corner",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "kuzushi",
 		"pronunciation": "",
 		"meaning": "to remove balance",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "kansetsu",
 		"pronunciation": "",
 		"meaning": "natural joint manipulation",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "gouri",
 		"pronunciation": "",
 		"meaning": "reason",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "gouho",
 		"pronunciation": "",
 		"meaning": "legal or true form",
-		"notes": "notes"
+		"notes": ""
 	},
 	
 	{
 		"term": "kiyoyei",
 		"pronunciation": "",
 		"meaning": "fellowship/friendship",
-		"notes": "notes"
+		"notes": ""
+	},
+	
+	{
+		"term": "gi",
+		"pronunciation": "",
+		"meaning": "traditional karate uniform",
+		"notes": ""
 	},
 	
 	{
 		"term": "gyaku",
 		"pronunciation": "",
 		"meaning": "joint locking manipulation",
-		"notes": "notes"
+		"notes": ""
 	}
 ]
