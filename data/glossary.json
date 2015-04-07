@@ -17,7 +17,7 @@
 		"term": "chakugan",
 		"pronunciation": "",
 		"meaning": "strategy of eye control",
-		"notes": "While some people havea naturally strong gaze that can be used to their advantage, we generally do not try to stare our opponents down by glaring into their eyes. So when we set our gaze in kata, we do not project an image of fear or anxiety, much less anger or passion. The eyes reflect the inner clam of being fully in the present moment (zanshin) with an immovable heart (fudoshin). Thus, when something dangerous or unexpected occurs we do not become erratic in our actions or mind, but remain centered and prepared to respond spontaneously in just the right measure. This concept reflects the idea of mushin, namely that the mind does not attach itself to any single thing. When the eyes focus upon one point, the mind follows and thus mushin is lost. Rather, by relaxing and using our 180 degree vision we \"gaze at a far mountain\" (enzan o metsuke), taking in the whole of the space around us. Sensei Iha says that an observer would say the karate-ka looks blind, because they are not looking at any one thing. We practice this every time we play catch with a ball while carrying on a conversation. We do not need to look at the ball to either avoid being hit or to catch it with the hand. We subconsciously know where it will be and how firm of a catch we need to make. This is also an example of ki- the unconscious completion of complex tasks.\"When facing a single tree, if you look at a single one of its red leaves, you will not see all the others. When the eye is not set on any one leaf, and you face the tree with nothing at all in mind, any number of leaves are visible to the eye without limit. But if a single leaf holds the eye, it will be as if the remaining leaves were not there\". - Takuan Sōhō",
+		"notes": "While some people have a naturally strong gaze that can be used to their advantage, we generally do not try to stare our opponents down by glaring into their eyes. So when we set our gaze in kata, we do not project an image of fear or anxiety, much less anger or passion. The eyes reflect the inner clam of being fully in the present moment (zanshin) with an immovable heart (fudoshin). Thus, when something dangerous or unexpected occurs we do not become erratic in our actions or mind, but remain centered and prepared to respond spontaneously in just the right measure. This concept reflects the idea of mushin, namely that the mind does not attach itself to any single thing. When the eyes focus upon one point, the mind follows and thus mushin is lost. Rather, by relaxing and using our 180 degree vision we \"gaze at a far mountain\" (enzan o metsuke), taking in the whole of the space around us. Sensei Iha says that an observer would say the karate-ka looks blind, because they are not looking at any one thing. We practice this every time we play catch with a ball while carrying on a conversation. We do not need to look at the ball to either avoid being hit or to catch it with the hand. We subconsciously know where it will be and how firm of a catch we need to make. This is also an example of ki- the unconscious completion of complex tasks.\"When facing a single tree, if you look at a single one of its red leaves, you will not see all the others. When the eye is not set on any one leaf, and you face the tree with nothing at all in mind, any number of leaves are visible to the eye without limit. But if a single leaf holds the eye, it will be as if the remaining leaves were not there\". - Takuan Sōhō",
 		"related": ["mushin", "zanshin", "heiho no metsuke", "enzan o metsuke"]
 	},
 	
@@ -106,7 +106,7 @@
 		"term": "bunkai",
 		"pronunciation": "",
 		"meaning": "analysis",
-		"notes": "Analysis. The analysis and application of kata which includes much more than the literal versions of the preset bunkai in the curriculum. Oyo bunkai is the less obvious, or the tweaked application of kata based upon the practitioner’s insights, abilities and personality. Every kata section has many applications, from basic striking and blocking, to joint attacks, throws, grappling and even weapons."
+		"notes": "The analysis and application of kata which includes much more than the literal versions of the preset bunkai in the curriculum. Oyo bunkai is the less obvious, or the tweaked application of kata based upon the practitioner’s insights, abilities and personality. Every kata section has many applications, from basic striking and blocking, to joint attacks, throws, grappling and even weapons."
 	},
 	
 	{
@@ -218,7 +218,7 @@
 	{
 		"term": "kyu",
 		"pronunciation": "",
-		"meaning": "shout",
+		"meaning": "",
 		"notes": ""
 	},
 	
@@ -334,7 +334,7 @@
 	{
 		"term": "atefei",
 		"pronunciation": "",
-		"meaning": "control and expression of impact",
+		"meaning": "control/expression of impact",
 		"notes": "",
 		"related": ["kime", "kukuchi", "chinkuchi"]
 	},
@@ -407,7 +407,8 @@
 		"term": "fudoshin",
 		"pronunciation": "",
 		"meaning": "immovable heart",
-		"notes": "See Shidokan."
+		"notes": "",
+		"related": ["Shidokan"]
 	},
 	
 	{
