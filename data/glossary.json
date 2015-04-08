@@ -1,11 +1,20 @@
 [
 	{
-		"term": "shidokan",
+		"term": "Shidokan",
+		"kanji": "志道館",
 		"pronunciation": "",
 		"meaning": "The cultivation of the virtuous heart through martial practice and friendship.",
 		"notes": "The name Sensei Katsuya Miyahira gave to his school based upon the Analects of Confucius from chapter seven, verse six in Book Four. It reads: \"Determine in your heart to forever follow the Way. Stay close to the sun of Virtue and do not stray. Trust in the power of Benevolence for support. Take pleasure from these abilities.\" Humility, acceptance of one’s place, commitment to the Path in spite of adversities and a desire to not give up are the heart of our training. All proper karate practice opens us to the opportunity to face ourselves honestly and dispassionately, to be sober about our fundamental self. \"Self-victory is true victory\", but how hard it is to attain! So approach partner work as an opportunity to face yourself honestly knowing that it is through other our love for other people that we grow up and find Joy. Watch yourself in class to see what makes you irritated, proud, impatient or self-satisfied. This is where the real learning takes place in class. Use your partner as a mirror to look at your motivations and reactions. Then fudoshin will form within you of its own accord. At the end of each class each of us should have a moment of inner reflection to help cultivate the immovable heart."
 	},
 
+	{
+		"term": "beikoku",
+		"kanji": "米国",
+		"pronunciation": "",
+		"meaning": "North America",
+		"notes": "Literally \"rice country\"."
+	},
+	
 	{
 		"term": "jiku",
 		"pronunciation": "",
@@ -168,9 +177,9 @@
 	},
 	
 	{
-		"term": "hayaku",
+		"term": "haiyaku",
 		"pronunciation": "",
-		"meaning": "fast"
+		"meaning": "with speed"
 	},
 	
 	{
@@ -188,7 +197,7 @@
 	},
 	
 	{
-		"term": "kusanku",
+		"term": "Kusanku",
 		"pronunciation": "",
 		"meaning": "",
 		"notes": ""
@@ -415,7 +424,8 @@
 		"term": "okokoru",
 		"pronunciation": "",
 		"meaning": "big-heartedness, the embodiment of the concept of Shidokan",
-		"notes": "By approaching partner work in the cooperative spirit of Iha Sensei's teachings, we will not only develop strong martial abilities, but a deeper humanity, thus attaining what Iha Sensei is known for in his homeland of Okinawa- okokoru, \"big-heartedness\". Sensei has said that kata, makiwara, tanden, and a noble heart are all that one needs to have true karate. He also often mentions that the best karate-ka have humble and kind personalities. What is the connection between skill and attitude? Simply put, people like to train with nice partners. So the more cooperative and useful you are as a partner, the more often you will get a chance to train. And this is the key to learning. Sensei says that \"honest training\" means you don’t try to hurt anyone, but that you train hard enough to know that it works for you. If you get hurt, he said, you just say \"my mistake\" and keep training; no hard feelings or \"get back\" resentments. He said that it is very important to find and to be the right kind of training partner; otherwise you never \"grow up\". So having a generous spirit is the beginning and also the goal of training"
+		"notes": "By approaching partner work in the cooperative spirit of Iha Sensei's teachings, we will not only develop strong martial abilities, but a deeper humanity, thus attaining what Iha Sensei is known for in his homeland of Okinawa- okokoru, \"big-heartedness\". Sensei has said that kata, makiwara, tanden, and a noble heart are all that one needs to have true karate. He also often mentions that the best karate-ka have humble and kind personalities. What is the connection between skill and attitude? Simply put, people like to train with nice partners. So the more cooperative and useful you are as a partner, the more often you will get a chance to train. And this is the key to learning. Sensei says that \"honest training\" means you don’t try to hurt anyone, but that you train hard enough to know that it works for you. If you get hurt, he said, you just say \"my mistake\" and keep training; no hard feelings or \"get back\" resentments. He said that it is very important to find and to be the right kind of training partner; otherwise you never \"grow up\". So having a generous spirit is the beginning and also the goal of training",
+		"related": ["Shidokan"]
 	},
 	
 	{
@@ -450,7 +460,8 @@
 		"term": "uke",
 		"pronunciation": "",
 		"meaning": "to receive",
-		"notes": "See tori."
+		"notes": "",
+		"related": ["tori"]
 	},
 	
 	{
@@ -478,7 +489,8 @@
 		"term": "kansetsu",
 		"pronunciation": "",
 		"meaning": "natural joint manipulation",
-		"notes": "See gyaku."
+		"notes": "",
+		"related": ["gyaku"]
 	},
 	
 	{

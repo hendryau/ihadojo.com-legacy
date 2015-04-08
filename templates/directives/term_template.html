@@ -1,8 +1,8 @@
-<h3>{{ctrl.term.term}}<br><small>{{ctrl.term.meaning}}</small></h3>
+<h3>{{ctrl.term.term}} &nbsp {{ctrl.term.kanji}}<br><small>{{ctrl.term.meaning}}</small></h3>
   
 <span ng-if="ctrl.hasNotes()">
   
-  <span ng-class="{'less-glossary-txt': !ctrl.more}">  
+  <span>  
     {{ctrl.displayString()}}
   </span>
   

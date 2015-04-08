@@ -58,7 +58,7 @@ angular.module('ihaDojo')
 		}
 		
 		ctrl.displayString = function() {
-			if (ctrl.more) {
+			if (ctrl.more || ctrl.term.notes.length < ctrl.collapsedNoteLength) {
 				return ctrl.term.notes;
 			}
 			
