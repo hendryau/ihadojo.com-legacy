@@ -16,6 +16,14 @@
 	},
 	
 	{
+		"term": "shuto",
+		"kanji": "手刀",
+		"pronunciation": "",
+		"meaning": "edge of the hand",
+		"notes": ""
+	},
+	
+	{
 		"term": "jiku",
 		"pronunciation": "",
 		"meaning": "axis, point of rotation",
@@ -24,6 +32,7 @@
 	
 	{
 		"term": "chakugan",
+		"kanji": "着眼",
 		"pronunciation": "",
 		"meaning": "strategy of eye control",
 		"notes": "While some people have a naturally strong gaze that can be used to their advantage, we generally do not try to stare our opponents down by glaring into their eyes. So when we set our gaze in kata, we do not project an image of fear or anxiety, much less anger or passion. The eyes reflect the inner clam of being fully in the present moment (zanshin) with an immovable heart (fudoshin). Thus, when something dangerous or unexpected occurs we do not become erratic in our actions or mind, but remain centered and prepared to respond spontaneously in just the right measure. This concept reflects the idea of mushin, namely that the mind does not attach itself to any single thing. When the eyes focus upon one point, the mind follows and thus mushin is lost. Rather, by relaxing and using our 180 degree vision we \"gaze at a far mountain\" (enzan o metsuke), taking in the whole of the space around us. Sensei Iha says that an observer would say the karate-ka looks blind, because they are not looking at any one thing. We practice this every time we play catch with a ball while carrying on a conversation. We do not need to look at the ball to either avoid being hit or to catch it with the hand. We subconsciously know where it will be and how firm of a catch we need to make. This is also an example of ki- the unconscious completion of complex tasks.\"When facing a single tree, if you look at a single one of its red leaves, you will not see all the others. When the eye is not set on any one leaf, and you face the tree with nothing at all in mind, any number of leaves are visible to the eye without limit. But if a single leaf holds the eye, it will be as if the remaining leaves were not there\". - Takuan Sōhō",
@@ -75,7 +84,7 @@
 	},
 	
 	{
-		"term": "suki",
+		"term": "tsuki",
 		"pronunciation": "",
 		"meaning": "strike"
 	},
@@ -172,12 +181,14 @@
 	
 	{
 		"term": "hajime",
+		"kanji": "始め",
 		"pronunciation": "",
 		"meaning": "begin"
 	},
 	
 	{
 		"term": "haiyaku",
+		"kanji": "早く",
 		"pronunciation": "",
 		"meaning": "with speed"
 	},
@@ -212,6 +223,7 @@
 	
 	{
 		"term": "hanshi",
+		"kanji": "範士",
 		"pronunciation": "",
 		"meaning": "",
 		"notes": ""
