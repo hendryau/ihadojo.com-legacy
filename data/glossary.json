@@ -24,6 +24,24 @@
 	},
 	
 	{
+		"term": "gedan",
+		"pronunciation": "",
+		"meaning": "low"
+	},
+	
+	{
+		"term": "chudan",
+		"pronunciation": "",
+		"meaning": "middle"
+	},
+	
+	{
+		"term": "jodan",
+		"pronunciation": "",
+		"meaning": "high"
+	},
+	
+	{
 		"term": "jiku",
 		"pronunciation": "",
 		"meaning": "axis, point of rotation",
