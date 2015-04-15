@@ -11,48 +11,45 @@
 
 <h1 class="text-center">Beikoku Shidokan Karatedo Association</h1>
 
-<div class="row">
-  <div class="col-md-1"></div>
+<div class="container">
+  <div class="row">
 
-  <div class="col-md-2 text-center">
+    <div class="col-md-2 text-center">
 
-    <div ng-if="!rootCtrl.isMobile">
-      <a href="index.html"><img src="imgs/ropes_lrg.png"></a>
+      <div ng-if="!rootCtrl.isMobile">
+        <a href="index.html"><img src="imgs/ropes_lrg.png"></a>
 
-      <br>
-      <br>
-    
-      <iha-menu></iha-menu>
-
-      <br>
-      <br>
-      
-      <div class="text-center">
-        <div>
-          Beikoku Shidokan Association<br>
-          2018 E. Michigan Ave.<br>
-          Lansing, MI 48912 USA<br>
-        </div>
         <br>
-        <div>
-          Tel: (517) 482-3217<br>
-          Email: mail@ihadojo.com
+        <br>
+    
+        <iha-menu></iha-menu>
+
+        <br>
+        <br>
+      
+        <div class="text-center">
+          <div>
+            Beikoku Shidokan Association<br>
+            2018 E. Michigan Ave.<br>
+            Lansing, MI 48912 USA<br>
+          </div>
+          <br>
+          <div>
+            Tel: (517) 482-3217<br>
+            Email: mail@ihadojo.com
+          </div>
         </div>
       </div>
-      
     </div>
 
+    <div class="col-md-8 iha-content-panel" ng-include="content"></div>
+    
+    <div class="col-md-2"></div>
+    
   </div>
 
-  <div class="col-md-6 iha-content-panel" ng-include="content"></div>
-
-  <div class="col-md-3"></div>
-</div>
-
-<div class="row">
-
+  <div class="row">
 	<div ng-if="rootCtrl.isMobile" class="text-center">
-		<br>
 		<br>
 		<div>
 			Beikoku Shidokan Association<br> 2018 E. Michigan Ave.<br>
@@ -63,10 +60,11 @@
 			Tel: (517) 482-3217<br> Email: mail@ihadojo.com
 		</div>
 	</div>
+  </div>
 
-	<br>
- <div class="col-md-12 footer">
-   <div class="text-center footer-txt">Copyright (c) 2015 Beikoku Shidokan Association. All rights reserved.</div>
-   <!-- <div class="text-center footer-txt">Site by <a href="#">ah</a>.</div>-->
- </div>
 </div>
+	
+ <div class="col-md-12 footer">
+   <div class="text-center footer-txt">Copyright (c) 2015 Beikoku Shidokan Association. All rights reserved. 
+   Site by <a href="http://www.hendrydigital.com">HD</a>.</div>
+ </div>
