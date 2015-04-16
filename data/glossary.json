@@ -301,7 +301,7 @@
 		"term": "Tomari-te",
 		"pronunciation": "",
 		"meaning": "style from the Tomari region of Okinawa",
-		"notes": "Uechi-ryu is derived from Tomari-te"
+		"notes": "Uechi-ryu is derived from Tomari-te."
 	},
 	
 	{
@@ -449,7 +449,7 @@
 		"term": "kokyu-ho",
 		"pronunciation": "",
 		"meaning": "breath control",
-		"notes": "Shorin-ryu teaches breathing naturally while training (no sharp breathes)."
+		"notes": "Shorin-ryu teaches natural breathing while training (no sharp breathing)."
 	},
 	
 	{
@@ -515,7 +515,8 @@
 		"term": "tori",
 		"pronunciation": "",
 		"meaning": "to receive",
-		"notes": "In most partner situations, one person is designated as the uke, or attacker, while the defender is the tori, or nage."
+		"notes": "In most partner situations, one person is designated as the uke, or attacker, while the defender is the tori, or nage.",
+		"related": ["nage"]
 	},
 	
 	{
