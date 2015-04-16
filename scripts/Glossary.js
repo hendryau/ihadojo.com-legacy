@@ -46,29 +46,8 @@ angular.module('ihaDojo')
 	.controller('TermCtrl', function() {
 		var ctrl = this;
 		
-		ctrl.more = false;
-		ctrl.collapsedNoteLength = 200;
-		
 		ctrl.hasNotes = function() {
 			return ctrl.term.notes != null && ctrl.term.notes.length > 0;
 		}
 		
-		ctrl.canShowMore = function() {
-			return ctrl.hasNotes() && ctrl.term.notes.length > ctrl.collapsedNoteLength;
-		}
-		
-		ctrl.displayString = function() {
-			if (ctrl.more || ctrl.term.notes.length < ctrl.collapsedNoteLength) {
-				return ctrl.term.notes;
-			}
-			
-			return ctrl.term.notes.substring(0,ctrl.collapsedNoteLength-1).trim() + '...';
-		}
-		
-		ctrl.moreLessStr = function() {
-			if (ctrl.more) {
-				return 'less';
-			}
-			return 'more';
-		}
 	});

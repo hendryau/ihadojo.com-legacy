@@ -3,12 +3,8 @@
 <span ng-if="ctrl.hasNotes()">
   
   <span>  
-    {{ctrl.displayString()}}
+    {{ctrl.term.notes}}
   </span>
-  
-  <button class="btn btn-xs iha-btn iha-lst-btn"
-          ng-if="ctrl.canShowMore()" 
-	      ng-click="ctrl.more = !ctrl.more">{{ctrl.moreLessStr()}}</button>
 
 </span>
 
