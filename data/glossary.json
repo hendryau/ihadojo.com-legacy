@@ -25,18 +25,21 @@
 	
 	{
 		"term": "gedan",
+		"kanji": "下段",
 		"pronunciation": "",
 		"meaning": "low"
 	},
 	
 	{
 		"term": "chudan",
+		"kanji": " 中段",
 		"pronunciation": "",
 		"meaning": "middle"
 	},
 	
 	{
 		"term": "jodan",
+		"kanji": " 上段",
 		"pronunciation": "",
 		"meaning": "high"
 	},
@@ -67,8 +70,15 @@
 	
 	{
 		"term": "sensei",
+		"kanji": "先生",
 		"pronunciation": "",
 		"meaning": "teacher"
+	},
+	
+	{
+		"term": "kohai",
+		"kanji": "後輩",
+		"meaning": "junior student"
 	},
 	
 	{
@@ -79,6 +89,7 @@
 	
 	{
 		"term": "dojo",
+		"kanji": "道場",
 		"pronunciation": "",
 		"meaning": "school"
 	},
@@ -117,13 +128,15 @@
 		"term": "arigato gozaimasu",
 		"pronunciation": "",
 		"meaning": "thank you",
-		"notes": ""
+		"notes": "",
+		"related": ["rei", "o negai shimasu"]
 	},
 	
 	{
 		"term": "o negai shimasu",
 		"pronunciation": "",
-		"meaning": "please let me practice with you"
+		"meaning": "please let me practice with you",
+		"related": ["rei"]
 	},
 	
 	{
@@ -142,7 +155,7 @@
 		"term": "bunkai",
 		"pronunciation": "",
 		"meaning": "analysis",
-		"notes": "The analysis and application of kata which includes much more than the literal versions of the preset bunkai in the curriculum. Oyo bunkai is the less obvious, or the tweaked application of kata based upon the practitioner’s insights, abilities and personality. Every kata section has many applications, from basic striking and blocking, to joint attacks, throws, grappling and even weapons."
+		"notes": "The analysis and application of form."
 	},
 	
 	{
@@ -213,9 +226,10 @@
 	
 	{
 		"term": "kiai",
+		"kanji": "気合",
 		"pronunciation": "",
 		"meaning": "unified intention, volition, shout",
-		"notes": "Most kata have one or more places for a shout, often at the end of a series of straight attacks or some otherwise culminating move. Starting from the depth of the gut, the yell is timed to the technique to give a certain added degree of focus and intention. This is, however, only one, verbalized, aspect of kiai. Our whole kata should embody kiai. This is closely tied to the notion of zanshin, which describes the mental state of volitional action that is also paradoxically natural and spontaneous. The kiai side of zanshin can be seen in the way the eyes and chin remain still and purposeful while the shoulders, hips, hands and feet move together. If movement is sloppy, the kiai is lacking. And when you make an audible kiai, don’t contort your face and open your mouth too much. Keep it sharp and to the point. Remember, if you practice without intention, you are practicing not to have intention. Nothing is neutral."
+		"notes": ""
 	},
 	
 	{
@@ -234,8 +248,8 @@
 	
 	{
 		"term": "dan",
-		"pronunciation": "",
-		"meaning": "",
+		"kanji": "段",
+		"meaning": "advanced grade",
 		"notes": ""
 	},
 	
@@ -257,12 +271,13 @@
 	{
 		"term": "kyu",
 		"pronunciation": "",
-		"meaning": "",
+		"meaning": "junior grade",
 		"notes": ""
 	},
 	
 	{
 		"term": "obi",
+		"kanji": "帶",
 		"pronunciation": "",
 		"meaning": "belt",
 		"notes": ""
@@ -307,13 +322,14 @@
 		"term": "maai",
 		"pronunciation": "",
 		"meaning": "distance between objects",
-		"notes": "The distance between partners determines the movement. If two partners are five feet apart, it is a mistake to think of the critical distance as five feet. Each partner has their own maai depending upon their reach and height and potential weapons. (For example, if you have a pistol or rifle, your maai is quite short and your partner’s is quite long.) Even their speed changes the distance. If you can strike your partner over a longer distance more quickly than they can over a shorter distance, the maai changes in your favor. Explore your comfort zones with distance and spacing. Start farther apart for a technique, and then start closer and closer. Not only does the maai change, and thus your response, but also the psychological discomfort to the closing of distance. This includes your ability to strike effectively at close range. At close quarters, everything gets muddled together and there may be little room to generate power from the movement of limbs, especially if you are tense, which tends to occur when you are up close with aggression and yelling. If all you practice is the perfectly distanced punching and kicking of kumite and bunkai, then things start to fall apart. Use kumite and bunkai, and then \"kick punch\", as stepping-stones into more dynamic training such as free fighting, allowing you to find power generation from within your body instead of relying upon external movement in space to create power."
+		"notes": ""
 	},
 	
 	{
 		"term": "sempai",
 		"pronunciation": "",
-		"meaning": "",
+		"kanji": "先輩",
+		"meaning": "senior student",
 		"notes": ""
 	},
 	
@@ -321,7 +337,7 @@
 		"term": "tanden",
 		"pronunciation": "",
 		"meaning": "center of power",
-		"notes": "In reality nearly every feeling in karate is directly related to tanden, which is the basis for outpower and connectedness in all sabaki (and chinkuchi). Iha Sensei calls tanden the body's power distributor. Your center of gravity located several inches below your belly button. By gently pushing your center out and down against your belt and by bringing a small amount of breath into the lower abdomen through your nose, you increase the body's ability to move as a connected whole from the hips. The pressure is not tense and should never lead to exhaustion. Remember, you are not flexing our abdominal muscles as if showing a six pack. You are making a little belly. This means that for most people there will not be any space to slide the fingers between the belt and the stomach. Over time you will experience an increase in power, relaxation and \"connectedness\" in movement, especially if you keep your elbows close to the trunk when moving, as when generally punching the makiwara or doing the first moves of Kusanku sho (\"passing through\" yoi). At the same time, you increase the body's ability to take strikes as a protective shield of muscle and breath-control develops. As these phenomena begin to occur, you are beginning to use your tanden. One method of getting this feeling of moving from the hips (koshi) is to have a partner pull you by the belt in the direction of your movement. Likewise, move in the opposite direction of the pull from various angles. Or you can move with a short staff placed in your knots between you and your partner. Try to move synchronistically, keeping the same distance. Don't let the stick fall. This will give the feeling of moving from the tanden. The latter technique is also useful to develop distancing (maai). You may also lay on you back, place a weight upon your lower abdomen, and breathe deeply through the abdomen (fukushiki kokyu) keeping the form of the tanden without moving the weight.",
+		"notes": "One's center of gravity, located in the lower abdominal region.",
 		"related": ["enten jizui", "fukushiki kokyu", "koshi", "kukuchi", "chinkuchi"]
 	},
 	
@@ -367,7 +383,7 @@
 		"term": "chinkuchi",
 		"pronunciation": "",
 		"meaning": "unified power",
-		"notes": "Unified focusing of power, especially in relation to one’s own body. Often used interchangeably with kukuchi. Kata shows chinkuchi, kumite and makiwara show kukuchi."
+		"notes": "Especially in relation to one’s own body. Often used interchangeably with kukuchi. Kata shows chinkuchi, kumite and makiwara show kukuchi."
 	},
 	
 	{
@@ -382,21 +398,21 @@
 		"term": "hyoshi",
 		"pronunciation": "",
 		"meaning": "timing, rhythm",
-		"notes": "Like kime, each movement within the kata has its own cadence and rhythm. Kata \"by the count\" is good for correction at a very basic level, or to simulate a response to an attack, but it hinders the development of the \"hidden hand\" (kakushite) behind the personality of the movements at the higher levels.  We do not practice kata as if to a metronome, but at different tempos while combining movements that would be otherwise divided \"by the count.\" Proper bunkai flows from proper rhythm."
+		"notes": ""
 	},
 	
 	{
 		"term": "kamae",
 		"pronunciation": "",
 		"meaning": "positioning",
-		"notes": "It is often thought that the karate-ka who ends up in the correct position, with the correct foot and arm out in the right stance facing the right direction is doing the kata correctly. This is a misconception. It is critical to remember that the transition of balance between two or more points with the proper power and rhythm is the heart of kata. If this is correct, the ending will take care of itself like the reading of a good book. In this instance, tachi and kamae are merely points between transitions. They are not static, statuesque forms. They are notes in a song. Keep the kata dynamic by learning how to pass through positions in your bunkai by practicing without a count. On a deeper level, it means that we should not get trapped in the technique, but rather in the feeling and essence of the technique. Survival depends upon instinctual movement, not techniques. That said, this should not be understood as a carte blanche for sloppy and speedy movement. This would be a relapse to ugoki. Moving through kamae or tachi has nothing to do with hasty speed or a break in form, but rather with the feeling of entering into the mood of the kata. A rushed or slow kata is not kata. Kata exists in the deliberate balance and timing of transitions. Otherwise we could learn it from the photos of a book! As the pianist Artur Schnabel remarks, \"The notes I handle no better than many pianists. But the pauses between the notes - ah, that is where the art resides!\" This coincides with Choki Motobu’s teaching that \"kamae is in the heart, not a physical manifestation.\""
+		"notes": ""
 	},
 	
 	{
 		"term": "Shorin-ryu",
 		"pronunciation": "",
 		"meaning": "",
-		"notes": "One of the major streams of martial practice developed in Okinawa, rooted in Chinese martial practices developed around Shuri castle. Also referred to as Sui-di."
+		"notes": "Rooted in Shuri-te. Also referred to as Sui-di."
 	},
 	
 	{
@@ -411,14 +427,15 @@
 		"term": "mushin",
 		"pronunciation": "",
 		"meaning": "empty mind",
-		"notes": "A fullness of awareness owing to not being mentally attached to any one thing. Also see chakugan."
+		"notes": "A fullness of awareness. To not being mentally attached to any one thing.",
+		"related": ["chakugan"]
 	},
 	
 	{
 		"term": "shimeijurasan",
 		"pronunciation": "",
 		"meaning": "perfect refinement",
-		"notes": "As we progress, we must always retain the beginner's mind (shoshin) that is never satisfied, but rather approaches each training with freshness and optimism. We remain in a constant state of \"almost, not yet\" by being realistic about our own training and motivations. Stripped of ego, we realize that our abilities are akin to a pot of water that remains hot only with the constant presence of fire. Our \"fire\" must be intentional striving. Once the fundamental techniques are grasped, we refine ourselves by stripping away poor movement until we become \"zero\" with nothing extra- only natural, unconscious movement. Think about how we walk, shake hands, or reach for a drink. We do not use special \"reach for a drink\" or \"shake the hand\" techniques. We simply extend our arm and open our hand. We do not need to premeditate our movement. Our kata should be likewise. The word suigetsu refers to the moon's reflection upon still water. This should be our mental state- calm and reflective. Likewise, our martial training should help us to become true human beings who live naturally without selfishness so that we can be taken as we are, without masks or mixed motives. In Okinawan dialect, this natural and yet almost unattainable quality of living is called shimeijurasan.  In martial terms, shimeijurasan is termed muchimi; perfect eye control, breathing, balance and tension all together in perfect harmony from the top of the head to the tips of the toes and fingers. This is particularly true of partner work, as muchimi refers to \"sticking\" or \"adhering\" to someone in perfect harmony. Sensei says that muchimi is almost never possible and shimeijurasan even less so. Muchimi is noticeable in kata when the movement grinds or spirals out of the body in a way that is neither slow nor rushed.  Specifically it refers to a sticky, heavy feeling in the movements that are laden with great power. If your kata lacks timing, muchimi is impossible to achieve. In general it starts from the floor, works through the hips, and explodes from the limbs. All movement harmonizes together to end at the same time, where it is explicitly and outwardly focused sharply. Observers may find the expression of muchimi’s timing in kata to lag slightly behind what is typically seen, but in application the difference in outpower and feeling is incomparable."
+		"notes": ""
 	},
 	
 	{
@@ -432,14 +449,14 @@
 		"term": "kokyu-ho",
 		"pronunciation": "",
 		"meaning": "breath control",
-		"notes": "Our physical and psychological well-being is dependent upon our breathing. In Shorinryu, the breathing follows the body in a natural manner. Of course breathing always precedes movement and even thought, but in our style it is not as obvious. This again reflects the stress upon natural movement and breathing. We generally do not inhale through the mouth in kata. Inhale through the nose. Second, breathe with the lower abdomen (fukushiki kokyu), expanding and lowering your center before your upper chest expands. This helps keep the shoulders relaxed. Stiff shoulders often are a result of breathing with the upper lung first, which is usually what happens when the mouth is used for inhalation. Always keep a small reserve of air in the lower abdomen. This makes full use of the lungs and is connected to the development of tanden. We never exhale totally in kata. Third, do your best not to make sharp breaths when you do kata (kiai aside). Iha Sensei refers to this method as \"no see breathing.\" The body is more susceptible to damage when attacked on inhalation and so it is important not to project your breathing pattern for your opponent to easily time. Develop a natural rhythm and relax your body."
+		"notes": "Shorin-ryu teaches breathing naturally while training (no sharp breathes)."
 	},
 	
 	{
 		"term": "shizentai",
 		"pronunciation": "",
 		"meaning": "natural body position",
-		"notes": "The aim of Shorin-ryu. The goal of kata is natural and spontaneous movement. Many martial traditions use set forms as a gateway to freedom of movement. This is a paradoxical statement, but as we study and practice we discover its truth. Like mastering a musical instrument, true creative spontaneity must be acquired through forms. The universal is grasped through the particular. Shizentai-dachi, or the natural stance that we use in the beginning and end of most kata, kumite and bunkai, is representative of our goal. And this makes sense. What we do in the dojo should not only inform our “real life,” but also somehow mirror reality “out there.” Shingitai ichi nyo. Spirit and form are one. We do not walk down the street in the kamae of kata. The best martial artists are anonymous in their daily lives, having arrived at \"zero,\" at natural living. We should do karate as we live, relaxed and naturally. By approaching kata in this manner we will discover the meaning of Iha Sensei's maxim, \"At the higher levels of expertise, form is unimportant.\" Use your kata as this gateway into freedom of movement. Ryusui saki o kisowazu: \"Flowing water competes with nothing.\" Realize, too, that shizentai is a stance of patience. It is the perfect outward expression of an inward disposition for a martial artist, for a human being. Injuries, misunderstandings, personal obligations and long periods of stagnation are critical to our development. Each struggle refines our character into that of a martial artist. Accept difficulties as normal stepping-stones in your training. All of the great masters have their own shortcomings, even if we cannot perceive them. How they worked through their difficulties is what in part constitutes their martial achievements. Be patient in your practice. \"Having patience where patience is intolerable, this is true patience.\""
+		"notes": "The aim of Shorin-ryu. The goal of kata is natural and spontaneous movement."
 	},
 	
 	{
@@ -468,8 +485,8 @@
 	{
 		"term": "kiyoson",
 		"pronunciation": "",
-		"meaning": "intentional cooperation",
-		"notes": "We may become frustrated when our partners fail to understand a movement and give up or just ignore them, we may use power to dominate our classmates, or we may be lazy and sloppy partners for our juniors or seniors. All of these habits of body are expressions of mental ugoki. Mental sabaki expresses itself when we are humble, open to correction, patient in learning and teaching, and diligent to do the correct moves in an honest way, keeping the \"promise\" of the form. Our minds are unclouded by pride or frustration. Thus the dojo is also a place for intentional behavior and concentration. The name of our association, Shidokan, is in fact based upon the principles of intentional cooperation and harmony. Regarding playful cooperation, the attacks still must have a heavy fullness to them, but they are slowed down to avoid always eliciting a twitch response. At the same time, they are \"keeping the promise\" of the movement by not \"cheating,\" as when we punch our partner’s block in chart work and not their body, since we anticipate how they will block. This requires us to attack realistically in our follow-through, even if done slowly. This also means that we need to be sloppier some of the time when we attack, which is what we face in real conflict. When to do this is situational and while in class at the discretion of the teacher, but it is important. Always practicing for perfectly stylized attacks can actually undermine our training, as if we’re learning Elizabethan English in order to communicate effectively at the drive-thru."
+		"meaning": "cooperation",
+		"notes": ""
 	},
 	
 	{
@@ -527,7 +544,15 @@
 		"pronunciation": "",
 		"meaning": "natural joint manipulation",
 		"notes": "",
-		"related": ["gyaku"]
+		"related": ["gyaku", "kiesareta waza"]
+	},
+	
+	{
+		"term": "kiesareta waza",
+		"pronunciation": "",
+		"meaning": "disappearing technique",
+		"notes": "",
+		"related": ["kansetsu"]
 	},
 	
 	{
@@ -561,7 +586,8 @@
 	{
 		"term": "gyaku",
 		"pronunciation": "",
-		"meaning": "joint locking manipulation",
-		"notes": "Often joint pressure or manipulation is used to control or counter an opponent. There are two types of joint manipulation, natural and unnatural. In Okinawa, kansetsu usually refers to the bending of joints in the direction they naturally move, while gyaku refers to the unnatural torque on joints that causes pain. Gyaku is an important feeling in our repertoire of action, but we should strive to use kansetsu in our partner work. We will be able to use less force in our work with less damage to joints, and receive attacks in a manner that will catch our partners in kiesareta waza (disappearing techniques) before they realize the moment. Kansetsu waza can be explored with a partner by learning how to flow from hold to hold in a relaxed manner. Don’t be greedy. Just play around with them based upon your kata and natural intuition. At first it will seem that the stronger partner will always escape the hold or apply one successfully. However, with practice you will find that even strong partners can be submitted with the proper combination of striking, positioning, breathing, kuzushi, and timing. Of course, locks, pins and twists are not one-size-fits-all. When you hold an opponent, do not grip with all fingers, only two or three at a time, but also learn to hold gently with other parts of the body such as under your arm, with your neck or chin, and with your feet and legs. Use kankaku, listening with your body; gripping too hard shuts you off from hearing the intention of your partners. An example from architecture is found in the Japanese buildings of wooden construction that have lasted for hundreds of years since they have been constructed to flex at the joints. Likewise when we do not hold too tightly, we can sense the intention of our partner. This is using the inner space (kukan) that allows for growth and natural motion to occur on your part and possible unnatural motion on your partner's part in their attempts to escape, which undoes them."
+		"meaning": "joint locking/manipulation",
+		"notes": "The application of pressure on joints that causes pain.",
+		"related": ["kansetsu"]
 	}
 ]
