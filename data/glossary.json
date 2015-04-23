@@ -46,6 +46,7 @@
 	
 	{
 		"term": "jiku",
+		"kanji": "軸",
 		"pronunciation": "",
 		"meaning": "axis, point of rotation",
 		"notes": ""
@@ -62,7 +63,7 @@
 	
 	{
 		"term": "zanshin",
-		"pronunciation": "",
+		"pronunciation": "残心",
 		"meaning": "unified intention",
 		"notes": "",
 		"related": ["mushin", "chakugan", "heiho no metsuke", "enzan o metsuke"]
@@ -83,6 +84,7 @@
 	
 	{
 		"term": "hombu",
+		"kanji": "本部",
 		"pronunciation": "",
 		"meaning": "home"
 	},
@@ -114,14 +116,51 @@
 	
 	{
 		"term": "tsuki",
+		"kanji": "突き",
 		"pronunciation": "",
 		"meaning": "strike"
 	},
 	
 	{
 		"term": "geri",
+		"kanji": "蹴り",
 		"pronunciation": "",
 		"meaning": "kick"
+	},
+
+	{
+		"term": "mae-geri",
+		"kanji": "前蹴り",
+		"pronunciation": "",
+		"meaning": "front kick"
+	},
+	
+	{
+		"term": "mawashi-geri",
+		"kanji": "廻し蹴り",
+		"pronunciation": "",
+		"meaning": "roundhouse kick"
+	},
+	
+	{
+		"term": "yoko-geri",
+		"kanji": "横蹴り",
+		"pronunciation": "",
+		"meaning": "side kick"
+	},
+	
+	{
+		"term": "fumikomi",
+		"kanji": "横蹴り",
+		"pronunciation": "",
+		"meaning": "stomp"
+	},
+	
+	{
+		"term": "fumikomi",
+		"kanji": "横蹴り",
+		"pronunciation": "",
+		"meaning": "stomp"
 	},
 	
 	{
@@ -141,25 +180,35 @@
 	
 	{
 		"term": "kata",
+		"kanji": "形",
 		"pronunciation": "",
 		"meaning": "form"
 	},
 	
 	{
+		"term": "kihon",
+		"kanji": "基本",
+		"pronunciation": "",
+		"meaning": "basic"
+	},
+	
+	{
 		"term": "kumite",
+		"kumite": "組み手",
 		"pronunciation": "",
 		"meaning": "grappling hands"
 	},
 	
 	{
 		"term": "bunkai",
-		"pronunciation": "",
+		"pronunciation": "分解",
 		"meaning": "analysis",
-		"notes": "The analysis and application of form."
+		"notes": ""
 	},
 	
 	{
 		"term": "shoshin",
+		"kanji": "初心",
 		"pronunciation": "",
 		"meaning": "the beginner's mind",
 		"notes": "The beginner's mind is eager to learn and grow because it is unobstructed by ego or self-satisfaction."
@@ -167,25 +216,25 @@
 	
 	{
 		"term": "embusen",
-		"pronunciation": "",
+		"pronunciation": "演武線",
 		"meaning": "pattern of kata"
 	},
 	
 	{
 		"term": "te",
-		"pronunciation": "",
+		"pronunciation": "手",
 		"meaning": "hand"
 	},
 	
 	{
 		"term": "karate",
-		"pronunciation": "",
+		"pronunciation": "空手",
 		"meaning": "empty-hand"
 	},
 	
 	{
 		"term": "rei",
-		"pronunciation": "",
+		"pronunciation": "礼",
 		"meaning": "respect",
 		"notes": "As Gichin Funakoshi said, \"Karate begins and ends with respect.\""
 	},
@@ -198,6 +247,7 @@
 	
 	{
 		"term": "yoi",
+		"kanji": "用意",
 		"pronunciation": "",
 		"meaning": "readiness",
 		"notes": "All kata begin and end in a position of balance from which nearly all possible attacks can be thwarted through body shifting. Transitions in kata almost always \"pass through yoi...\" weight shifts to a point of balance from which it is possible to move in many directions with optimal power and timing.",
@@ -206,6 +256,7 @@
 	
 	{
 		"term": "yame",
+		"kanji": "止め",
 		"pronunciation": "",
 		"meaning": "end"
 	},
@@ -234,6 +285,7 @@
 	
 	{
 		"term": "passai",
+		"kanji": "抜塞",
 		"pronunciation": "",
 		"meaning": "",
 		"notes": ""
@@ -249,7 +301,7 @@
 	{
 		"term": "dan",
 		"kanji": "段",
-		"meaning": "advanced grade",
+		"meaning": "advanced grade/rank",
 		"notes": ""
 	},
 	
@@ -263,6 +315,7 @@
 	
 	{
 		"term": "kyoshi",
+		"kanji": "教師",
 		"pronunciation": "",
 		"meaning": "",
 		"notes": ""
@@ -270,8 +323,9 @@
 	
 	{
 		"term": "kyu",
+		"kanji": "救",
 		"pronunciation": "",
-		"meaning": "junior grade",
+		"meaning": "junior grade/rank",
 		"notes": ""
 	},
 	
@@ -285,7 +339,7 @@
 	
 	{
 		"term": "shihan",
-		"pronunciation": "",
+		"pronunciation": "師範",
 		"meaning": "",
 		"notes": ""
 	},
@@ -301,7 +355,7 @@
 		"term": "Tomari-te",
 		"pronunciation": "",
 		"meaning": "style from the Tomari region of Okinawa",
-		"notes": "Uechi-ryu is derived from Tomari-te"
+		"notes": "Uechi-ryu is derived from Tomari-te."
 	},
 	
 	{
@@ -335,9 +389,10 @@
 	
 	{
 		"term": "tanden",
+		"kanji": "丹田",
 		"pronunciation": "",
-		"meaning": "center of power",
-		"notes": "One's center of gravity, located in the lower abdominal region.",
+		"meaning": "abdomen",
+		"notes": "One's center of gravity and power.",
 		"related": ["enten jizui", "fukushiki kokyu", "koshi", "kukuchi", "chinkuchi"]
 	},
 	
@@ -403,6 +458,7 @@
 	
 	{
 		"term": "kamae",
+		"kanji": "構え",
 		"pronunciation": "",
 		"meaning": "positioning",
 		"notes": ""
@@ -449,7 +505,7 @@
 		"term": "kokyu-ho",
 		"pronunciation": "",
 		"meaning": "breath control",
-		"notes": "Shorin-ryu teaches breathing naturally while training (no sharp breathes)."
+		"notes": "Shorin-ryu teaches natural breathing while training (no sharp breathing)."
 	},
 	
 	{
@@ -515,7 +571,8 @@
 		"term": "tori",
 		"pronunciation": "",
 		"meaning": "to receive",
-		"notes": "In most partner situations, one person is designated as the uke, or attacker, while the defender is the tori, or nage."
+		"notes": "In most partner situations, one person is designated as the uke, or attacker, while the defender is the tori, or nage.",
+		"related": ["nage"]
 	},
 	
 	{
