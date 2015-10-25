@@ -71,7 +71,6 @@
 
 .pastEvent {
 	color: grey;
-	text-decoration: line-through;
 }
 
 .iha-navbar {
@@ -106,6 +105,11 @@
 
 .itinerary {
 	margin: 0 auto;
+}
+
+.lineage {
+	width: 600px;
+	height: 600px;
 }
 
 p {
