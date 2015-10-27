@@ -5,11 +5,13 @@
       </span>
     </small>
   </h3>
-  <p ng-if="dojo.addr != null || dojo.website != null || dojo.phone != null">
-    <span ng-if="dojo.addr != null && dojo.addr.length > 0">{{dojo.addr}}<br></span>
-    <span ng-if="dojo.website != null && dojo.website.length > 0"><a href="http://{{dojo.website}}">{{dojo.website}}</a><br></span>
-    <span ng-if="dojo.phone != null && dojo.phone.length > 0">{{dojo.phone}}</span>  
+  <p ng-if="dojo.addr || dojo.website || dojo.phone">
+    <span ng-if="dojo.addr">{{dojo.addr}}<br></span>
+    <span ng-if="dojo.website">site: <a href="http://{{dojo.website}}">{{dojo.website}}</a><br></span>
+    <span ng-if="dojo.email">email: <a href="{{dojo.email}}">{{dojo.email}}</a><br></span>
+    <span ng-if="dojo.phone != null && dojo.phone.length > 0">phone: {{dojo.phone}}</span>  
   </p>
+  <br>
 </div>
 
 <div ng-if="ctrl.dojos.length === 0">
