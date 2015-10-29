@@ -124,10 +124,10 @@
 		"start": "November 6, 2015",
 		"end": "November 6, 2015",
 		"title": "Shido-kan Training (MST)",
-		"location": "TBA",
+		"location": "Holt North Campus Gym, 5780 West Holt Road Holt MI 48842",
 		"ihaOnly": "false",
-		"host": "",
-		"notes": "",
+		"host": "Sensei Iha",
+		"notes": "6:30-8:30pm",
 		"link": ""
 	},
 	
@@ -146,10 +146,21 @@
 		"start": "November 21, 2015",
 		"end": "November 21, 2015",
 		"title": "Dan Test",
-		"location": "TBA",
+		"location": "Hombu Dojo",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": "",
+		"notes": "Test begins at 9:00am",
+		"link": ""
+	},
+	
+	{
+		"start": "July 21, 2016",
+		"end": "July 24, 2016",
+		"title": "National Training Seminar (NTS)",
+		"location": "Lansing Center, Lansing, MI",
+		"ihaOnly": "false",
+		"host": "",
+		"notes": "Beikoku Shidokan 40th Anniversary Celebration",
 		"link": ""
 	}
 	
