@@ -88,14 +88,14 @@
 	},
 	
 	{
-		"instructor": [{"name": "J.J. Martinez", "rank": "2nd Dan"}],
-		"dojo": "Curitiba Shido-kan",
-		"addr": "Curitiba, Brazil",
+		"instructor": [{"name": "J.J. Martinez", "rank": "4th Dan"}],
+		"dojo": "Shidokan Texas",
+		"addr": "",
 		"phone": "",
 		"website": "",
-		"email": "",
-		"lat": -25.428954,
-		"lng": -49.267137
+		"email": "jjmartinezt@gmail.com",
+		"lat": null,
+		"lng": null
 	},
 	
 	{
