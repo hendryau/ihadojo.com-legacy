@@ -87,10 +87,12 @@
 
 .footer {
 	background-color: black;
+	padding: 10px;
 }
 
 .footer-txt {
 	color: white;
+	clear: left
 }
 
 .foot-notes {
@@ -118,4 +120,14 @@ p {
 
 li {
 	font-size: 16px;
+}
+
+.lineage-img {
+	border-radius: 50%;
+	margin: 20px;
+}
+
+.lineage-wrapper {
+	text-align: center;
+	display: inline-block;
 }
