@@ -42,6 +42,6 @@ angular.module('ihaDojo')
 		this.dojos = {};
 
 		this.getId = function(dojo) {
-			return '#' + dojo.dojo.replace(/ /g, '').replace(/-/g, '').replace(/./g, '');
+			return '#' + dojo.dojo.replace(/ /g, '').replace(/-/g, '').replace(/\./g, '');
 		}
 	}]);
