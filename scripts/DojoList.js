@@ -40,4 +40,8 @@ angular.module('ihaDojo')
 	.controller('DojoListCtrl', [function(){
 		var ctrl = this;
 		this.dojos = {};
+
+		this.getId = function(dojo) {
+			return '#' + dojo.dojo.replace(/ /g, '').replace(/-/g, '').replace(/./g, '');
+		}
 	}]);
