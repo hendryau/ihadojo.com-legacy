@@ -67,9 +67,10 @@ angular.module('ihaDojo')
 		}
 		
 		ctrl.isPastEvt = function(evt) {
-			var endDate = new Date(evt.end);
 			var now = new Date();
-			if (now.getTime() > endDate.getTime()) {
+			var dayAfterEndDate = new Date(new Date(evt.end).getTime() + 86400000);
+			
+			if (now > dayAfterEndDate) {
 				return true;
 			}
 			return false;
