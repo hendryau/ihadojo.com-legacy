@@ -6,12 +6,13 @@ angular.module('ihaDojo')
 	.directive('rootTemplate', [function() {
 		return {
 			scope: {
-				content: '='
+				content: '=?'
 			},
+			transclude: true,
 			restrict: 'E',
 			controller: 'IhaDojoCtrl',
 			controllerAs: 'rootCtrl',
-			templateUrl: 'templates/root_template.html'
+			templateUrl: '/templates/root_template.html'
 		}
 	}])
 	.controller('IhaDojoCtrl', [function() {

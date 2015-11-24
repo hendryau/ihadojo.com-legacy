@@ -5,7 +5,7 @@
 angular.module('ihaDojo')
 	.directive('ihaMenu', ['$location', function($location) {
 		return {
-			templateUrl: 'templates/directives/menu_template.html',
+			templateUrl: '/templates/directives/menu_template.html',
 			controller: 'MenuCtrl',
 			controllerAs: 'ctrl',
 			link: function(scope, element, attrs) {

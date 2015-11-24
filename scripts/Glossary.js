@@ -7,9 +7,9 @@ angular.module('ihaDojo')
 		return {
 			controller: 'GlossaryCtrl',
 			controllerAs: 'ctrl',
-			templateUrl: 'templates/directives/glossary_template.html',
+			templateUrl: '/templates/directives/glossary_template.html',
 			link: function(scope, element, attrs) {
-				$http.get('data/glossary.json').then(function(response) {
+				$http.get('/data/glossary.json').then(function(response) {
 					scope.ctrl.glossary = response.data.sort(function(a, b) {
 						var a2 = a.term.toLowerCase();
 						var b2 = b.term.toLowerCase();
@@ -35,7 +35,7 @@ angular.module('ihaDojo')
 			scope: {
 				content: '='
 			},
-			templateUrl: 'templates/directives/term_template.html',
+			templateUrl: '/templates/directives/term_template.html',
 			controller: 'TermCtrl',
 			controllerAs: 'ctrl',
 			link: function(scope, element, attrs) {

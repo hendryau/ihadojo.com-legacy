@@ -171,18 +171,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Greg Morales", "rank": "4th Dan"}],
-		"dojo": "Mt. Pleasant Shido-kan",
-		"addr": "Mt. Pleasant, MI USA",
-		"phone": "(989) 621-4193",
-		"website": "",
-		"email": "",
-		"lat": 43.597807,
-		"lng": -84.767514
-	},
-	
-	{
-		"instructor": [{"name": "Patrick Perfetti", "rank": "4th Dan"},
+		"instructor": [{"name": "Patrick Perfetti", "rank": "5th Dan"},
 		           {"name": "Amy Bond", "rank": "3rd Dan"}],
 		"dojo": "Original Okinawa Karate - Cortland",
 		"addr": "Cortland YWCA 14 Clayton Ave. Cortland NY 13045 USA",
@@ -214,5 +203,16 @@
 		"email": "shodan_sensei@yahoo.com",
 		"lat": 41.706286,
 		"lng": -72.523669
+	},
+	
+	{
+		"instructor": [{"name": "Greg Morales", "rank": "4th Dan"}],
+		"dojo": "Mt. Pleasant Shido-kan",
+		"addr": "Mt. Pleasant, MI USA",
+		"phone": "(989) 621-4193",
+		"website": "",
+		"email": "",
+		"lat": 43.597807,
+		"lng": -84.767514
 	}
 ]

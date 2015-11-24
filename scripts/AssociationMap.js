@@ -18,13 +18,13 @@ angular.module('ihaDojo')
 				function placeMarker(type, dojo) {
 					var icon = '';
 					if (type === 'hombu') {
-						icon = 'imgs/marker-ylw.png';
+						icon = '/imgs/marker-ylw.png';
 					}
 					else if (type === 'shibu') {
-						icon = 'imgs/marker-red.png';
+						icon = '/imgs/marker-red.png';
 					}
 					else if (type === 'fukuShibu') {
-						icon = 'imgs/marker-blu.png'
+						icon = '/imgs/marker-blu.png'
 					}
 					
 					new google.maps.Marker({
@@ -36,24 +36,24 @@ angular.module('ihaDojo')
 				}
 				
 				if (attrs.hombu) {
-					$http.get('data/hombu.json').then(function(hombu) {
+					$http.get('/data/hombu.json').then(function(hombu) {
 						placeMarker('hombu', hombu.data[0]);
 						map.zoom = 15;
 					});
 					return;
 				}
 				
-				$http.get('data/hombu.json').then(function(hombu) {
+				$http.get('/data/hombu.json').then(function(hombu) {
 					placeMarker('hombu', hombu.data[0]);
-					$http.get('data/shibu.json').then(function(shibu) {
+					$http.get('/data/shibu.json').then(function(shibu) {
 						shibu.data.forEach(function(dojo) {
 							placeMarker('shibu', dojo);
 						});
-						$http.get('data/fukuShibu.json').then(function(fukuShibu) {
+						$http.get('/data/fukuShibu.json').then(function(fukuShibu) {
 							fukuShibu.data.forEach(function(dojo) {
 								placeMarker('fukuShibu', dojo);
 							});
-							$http.get('data/junShibu.json').then(function(junShibu) {
+							$http.get('/data/junShibu.json').then(function(junShibu) {
 								if (junShibu.data instanceof Array) junShibu.data.forEach(function(dojo) {
 									placeMarker('junShibu', dojo);
 								});

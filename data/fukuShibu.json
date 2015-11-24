@@ -1,15 +1,4 @@
-[
-	{
-		"instructor": [{"name": "Amit Michaeli", "rank": "4th Dan"}],
-		"dojo": "Shido-kan Israel",
-		"addr": "Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
-		"phone": "+972-50-640-7061",
-		"website": "shidokanisrael.com",
-		"email": "amit@shidokanisrael.com",
-		"lat": 31.764240,
-		"lng": 35.149502
-	},
-	
+[	
 	{
 		"instructor": [{"name": "Fortunato Restagno", "rank": "5th Dan"}],
 		"dojo": "Grand River Karate",
@@ -30,6 +19,17 @@
 		"email": "cdfshidokan@yahoo.com",
 		"lat": 41.194702,
 		"lng": -74.493794
+	},
+	
+	{
+		"instructor": [{"name": "Amit Michaeli", "rank": "4th Dan"}],
+		"dojo": "Shido-kan Israel",
+		"addr": "Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
+		"phone": "+972-50-640-7061",
+		"website": "shidokanisrael.com",
+		"email": "amit@shidokanisrael.com",
+		"lat": 31.764240,
+		"lng": 35.149502
 	},
 	
 	{
@@ -66,17 +66,24 @@
 	},
 	
 	{
-		"instructor": [{"name": "Yishay Haspel", "rank": "2nd Dan"}],
-		"dojo": "Shido-kan Tel Aviv",
-		"addr": "Hagefen 8 Ramat Gan, 52546, Israel",
-		"phone": "+972-54-494-8084",
-		"website": "shidokanisrael.com",
-		"email": "yishay@shidokanisrael.com",
-		"lat": 32.085300,
-		"lng": 34.781768
+		"instructor": [{"name": "J.J. Martinez", "rank": "4th Dan"}],
+		"dojo": "Shidokan Texas",
+		"addr": "",
+		"phone": "",
+		"website": "",
+		"email": "jjmartinezt@gmail.com"
 	},
 	
-	{
+    {
+		"instructor": [{"name": "Ameer Syed", "rank": "4th Dan"}],
+		"dojo": "The Arch Shidokan",
+		"addr": "St. Peters, MO; Mailing Address: 12595 Marine Ave, Ste A, St. Louis, MO 63146 USA﻿﻿",
+		"phone": "(314) 473-5694",
+		"website": "shidokankarate.com",
+		"email": "sensei@shidokankarate.com"
+	},
+    
+    {
 		"instructor": [{"name": "Scott A. Kramer", "rank": "3rd Dan"}],
 		"dojo": "Charlotte Shido-kan",
 		"addr": "Charlotte, MI 48813 USA",
@@ -86,28 +93,6 @@
 		"lat": 42.563648,
 		"lng": -84.835821
 	},
-	
-	{
-		"instructor": [{"name": "J.J. Martinez", "rank": "4th Dan"}],
-		"dojo": "Shidokan Texas",
-		"addr": "",
-		"phone": "",
-		"website": "",
-		"email": "jjmartinezt@gmail.com",
-		"lat": null,
-		"lng": null
-	},
-	
-    {
-		"instructor": [{"name": "Ameer Syed", "rank": "4th Dan"}],
-		"dojo": "The Arch Shidokan",
-		"addr": "St. Peters, MO; Mailing Address: 12595 Marine Ave, Ste A, St. Louis, MO 63146 USA﻿﻿",
-		"phone": "(314) 473-5694",
-		"website": "shidokankarate.com",
-		"email": "sensei@shidokankarate.com",
-		"lat": null,
-		"lng": null
-	},
     
     {
 		"instructor": [{"name": "Stephanie Faulkingham", "rank": "3rd Dan"}],
@@ -115,9 +100,18 @@
 		"addr": "PO Box 2051, MarylandHts, MO 63043",
 		"phone": "(314) 643-7745",
 		"website": "gatewayshidokan.com",
-		"email": "teacher@gatewayshidokan.com",
-		"lat": null,
-		"lng": null
+		"email": "teacher@gatewayshidokan.com"
+	},
+    
+    {
+		"instructor": [{"name": "Yishay Haspel", "rank": "2nd Dan"}],
+		"dojo": "Shido-kan Tel Aviv",
+		"addr": "Hagefen 8 Ramat Gan, 52546, Israel",
+		"phone": "+972-54-494-8084",
+		"website": "shidokanisrael.com",
+		"email": "yishay@shidokanisrael.com",
+		"lat": 32.085300,
+		"lng": 34.781768
 	},
     
 	{
