@@ -2,7 +2,7 @@
   
   <h3 ng-class="{pastEvent: past}">{{evt.title}}<br><small>{{ctrl.getDisplayDate(evt)}}</small></h3>
     
-    <div ng-if="!past"class="panel panel-default panel-body">
+    <div ng-if="!past && (evt.location || evt.host || evt.notes || evt.link)"class="panel panel-default panel-body">
       <div ng-if="evt.location != null && evt.location.length > 0">
 	    <p><b>Location:</b> {{evt.location}}</p>
       </div>
