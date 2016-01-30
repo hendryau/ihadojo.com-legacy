@@ -10,6 +10,17 @@
 		"link": ""
 	},
 	
+	{
+		"start": "February 19, 2016",
+		"end": "February 20, 2016",
+		"title": "North Virginia Seminar",
+		"location": "AUUC Sanctuary, 10125 Lakehaven Court, Burke, VA 22015",
+		"ihaOnly": "false",
+		"host": "Roberto Curtis",
+		"notes": "",
+		"link": ""
+	},
+
     	{
 		"start": "April 8, 2016",
 		"end": "April 10, 2016",
@@ -30,6 +41,17 @@
 		"host": "",
 		"notes": "Beikoku Shidokan 40th Anniversary Celebration",
 		"link": "/nts.html"
+	},
+
+	{
+		"start": "November 11, 2016",
+		"end": "November 13, 2016",
+		"title": "Karate STL Seminar",
+		"location": "Karate STL, St. Louis MO",
+		"ihaOnly": "false",
+		"host": "Sherry Basinger",
+		"notes": "",
+		"link": ""
 	}
 	
 ]
