@@ -10,18 +10,18 @@
 		"link": ""
 	},
 	
-    {
-		"start": "April 8, 2015",
-		"end": "April 10, 2016",
-		"title": "Iha Sensei Japan Visit",
-		"location": "New Jersey, USA",
+	{
+		"start": "February 19, 2016",
+		"end": "February 20, 2016",
+		"title": "North Virginia Seminar",
+		"location": "AUUC Sanctuary, 10125 Lakehaven Court, Burke, VA 22015",
 		"ihaOnly": "false",
-		"host": "Lisa and Larry Schwartz",
+		"host": "Roberto Curtis",
 		"notes": "",
 		"link": ""
 	},
-    
-    {
+
+    	{
 		"start": "March 18, 2016",
 		"end": "March 18, 2016",
 		"title": "Michigan Training Seminar",
@@ -31,7 +31,7 @@
 		"notes": "Time and location TBA."
 	},
     
-    {
+	{
 		"start": "March 19, 2016",
 		"end": "March 19, 2016",
 		"title": "Dan Test",
@@ -41,7 +41,18 @@
 		"notes": "Test starts at 9am.",
 		"link": "/nts.html"
 	},
-    
+
+    	{
+		"start": "April 8, 2016",
+		"end": "April 10, 2016",
+		"title": "New Jersey Seminar",
+		"location": "YJCC Okinawan Karate YJCC of Bergen County, New Jersey, USA",
+		"ihaOnly": "false",
+		"host": "Lisa and Larry Schwartz",
+		"notes": "",
+		"link": ""
+	},
+
 	{
 		"start": "July 21, 2016",
 		"end": "July 24, 2016",
@@ -49,7 +60,18 @@
 		"location": "Lansing Center, Lansing, MI, USA",
 		"ihaOnly": "false",
 		"host": "",
-		"notes": "Beikoku Shidokan 40th Anniversary Celebration"
+		"notes": "Beikoku Shidokan 40th Anniversary Celebration",
+		"link": "/nts.html"
+	},
+
+	{
+		"start": "November 11, 2016",
+		"end": "November 13, 2016",
+		"title": "Karate STL Seminar",
+		"location": "Karate STL, St. Louis MO",
+		"ihaOnly": "false",
+		"host": "Sherry Basinger",
+		"notes": "",
+		"link": ""
 	}
-	
 ]
