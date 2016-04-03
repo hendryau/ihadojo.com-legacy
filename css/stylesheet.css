@@ -131,3 +131,7 @@ li {
 	text-align: center;
 	display: inline-block;
 }
+
+.important-update {
+	background-color: #FFCC00;
+}
