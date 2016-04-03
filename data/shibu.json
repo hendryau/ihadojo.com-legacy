@@ -12,12 +12,13 @@
 	
 	{
 		"instructor": [{"name": "David Senak", "rank": "8th Dan"},
-		            {"name": "Michael Senak", "rank": "7th Dan"}],
+		            {"name": "Michael Senak", "rank": "7th Dan"},
+		            {"name": "Mason Senak", "rank": "6th Dan"}],
 		"dojo": "Maywood Academy of Okinawan Karate",
 		"addr": "47 W. Pleasant Ave PO Box 1161 Maywood, NJ 07607 USA",
 		"phone": "(201) 712-1416",
 		"website": "maywoodkarate.com",
-		"email": "kanes2@aol.com",
+		"email": "maywoodkarate@aol.com",
 		"lat": 40.904666,
 		"lng": -74.062449
 	},
