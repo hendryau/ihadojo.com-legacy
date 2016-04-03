@@ -56,13 +56,8 @@
 		"start": "June 3, 2016",
 		"end": "June 5, 2016",
 		"title": "Canada Seminar",
-		"host": "Roy and Margaret Paul"
-	},
-
-	{
-		"start": "September 5, 2016",
-		"end": "September 13, 2016",
-		"title": "Shidokan Germany Seminar"
+		"host": "Roy and Margaret Paul",
+		"notes": "Shidokan Canada 20th Anniversary Celebration"
 	},
 
 	{
@@ -74,6 +69,12 @@
 		"host": "",
 		"notes": "Beikoku Shidokan 40th Anniversary Celebration",
 		"link": "/nts.html"
+	},
+
+	{
+		"start": "September 5, 2016",
+		"end": "September 13, 2016",
+		"title": "Shidokan Germany Seminar"
 	},
 
 	{
