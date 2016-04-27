@@ -2,7 +2,7 @@
 	{
 		"start": "December 25, 2015",
 		"end": "February 15, 2016",
-		"title": "Iha Sensei Japan Visit",
+		"title": "Iha Sensei Okinawa Visit",
 		"location": "",
 		"ihaOnly": "true",
 		"host": "",
@@ -53,7 +53,15 @@
 	},
 
 	{
-		"start": "July 21, 2016",
+		"start": "June 3, 2016",
+		"end": "June 5, 2016",
+		"title": "Canada Seminar",
+		"host": "Roy and Margaret Paul",
+		"notes": "Shidokan Canada 20th Anniversary Celebration"
+	},
+
+	{
+		"start": "July 22, 2016",
 		"end": "July 24, 2016",
 		"title": "National Training Seminar (NTS)",
 		"location": "Lansing Center, Lansing, MI, USA",
@@ -61,6 +69,18 @@
 		"host": "",
 		"notes": "Beikoku Shidokan 40th Anniversary Celebration",
 		"link": "/nts.html"
+	},
+
+	{
+		"start": "September 5, 2016",
+		"end": "September 13, 2016",
+		"title": "Shidokan Germany Seminar"
+	},
+
+	{
+		"start": "October 24, 2016",
+		"end": "October 31, 2016",
+		"title": "Iha Sensei Okinawa Visit"
 	},
 
 	{
