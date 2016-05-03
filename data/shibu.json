@@ -11,9 +11,9 @@
 	},
 	
 	{
-		"instructor": [{"name": "David Senak", "rank": "8th Dan"},
-		            {"name": "Michael Senak", "rank": "7th Dan"},
-		            {"name": "Mason Senak", "rank": "6th Dan"}],
+		"instructor": [{"name": "Mason Senak", "rank": "6th Dan"},
+                            {"name": "David Senak", "rank": "8th Dan"},
+		            {"name": "Michael Senak", "rank": "7th Dan"}],
 		"dojo": "Maywood Academy of Okinawan Karate",
 		"addr": "47 W. Pleasant Ave PO Box 1161 Maywood, NJ 07607 USA",
 		"phone": "(201) 712-1416",
