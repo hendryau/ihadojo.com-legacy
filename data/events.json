@@ -88,25 +88,8 @@
 	},
 
 	{
-		"start": "September 5, 2016",
-		"end": "September 13, 2016",
-		"title": "Shidokan Germany Seminar"
-	},
-
-	{
 		"start": "October 24, 2016",
 		"end": "October 31, 2016",
 		"title": "Iha Sensei Okinawa Visit"
-	},
-
-	{
-		"start": "November 11, 2016",
-		"end": "November 13, 2016",
-		"title": "Karate STL Seminar",
-		"location": "Karate STL, St. Louis MO",
-		"ihaOnly": "false",
-		"host": "Sherry Basinger",
-		"notes": "",
-		"link": ""
 	}
 ]
