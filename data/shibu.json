@@ -25,7 +25,7 @@
 	
 	{
 		"instructor": [{"name": "Lawrence Schwartz", "rank": "8th Dan"},
-		            {"name": "Lisa Schwartz", "rank": "7th Dan"}],
+		            {"name": "Lisa Schwartz", "rank": "8th Dan"}],
 		"dojo": "Shidokan Rockland",
 		"addr": "450 West Nyack Road, West Nyack, NY 10994",
 		"phone": "(201) 341-9682",
@@ -36,7 +36,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Robert Curtis", "rank": "7th Dan"}],
+		"instructor": [{"name": "Robert Curtis", "rank": "8th Dan"}],
 		"dojo": "Virginia & D.C. Shido-kan",
 		"addr": "AUUC Sanctuary, 10125 Lakehaven Court, Burke VA 22015 USA",
 		"phone": "",

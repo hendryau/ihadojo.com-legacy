@@ -8,7 +8,7 @@
   <p ng-if="dojo.addr || dojo.website || dojo.phone || dojo.email">
     <span ng-if="dojo.addr">{{dojo.addr}}<br></span>
     <span ng-if="dojo.website">site: <a href="http://{{dojo.website}}">{{dojo.website}}</a><br></span>
-    <span ng-if="dojo.email">email: <a href="{{dojo.email}}">{{dojo.email}}</a><br></span>
+    <span ng-if="dojo.email">email: <a href="mailto:{{dojo.email}}">{{dojo.email}}</a><br></span>
     <span ng-if="dojo.phone != null && dojo.phone.length > 0">phone: {{dojo.phone}}</span>  
   </p>
   <br>
