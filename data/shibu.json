@@ -2,8 +2,8 @@
 	{
 		"instructor": [{"name": "Robert Menders", "rank": "8th Dan"}],
 		"dojo": "Original Okinawa Karate Shido-kan Detroit",
-		"addr": "30333 Southfield Rd. Southfield, MI 48076 USA",
-		"phone": "(248) 646-8990",
+		"addr": "4980 Pond Circle West, West Bloomfield, MI 48323 USA",
+		"phone": "(248) 225-7172",
 		"website": "mendersdojo.com",
 		"email": "rmenders@sbcglobal.net",
 		"lat": 42.513193,
@@ -11,20 +11,21 @@
 	},
 	
 	{
-		"instructor": [{"name": "David Senak", "rank": "8th Dan"},
+		"instructor": [{"name": "Mason Senak", "rank": "6th Dan"},
+                            {"name": "David Senak", "rank": "8th Dan"},
 		            {"name": "Michael Senak", "rank": "7th Dan"}],
 		"dojo": "Maywood Academy of Okinawan Karate",
 		"addr": "47 W. Pleasant Ave PO Box 1161 Maywood, NJ 07607 USA",
 		"phone": "(201) 712-1416",
 		"website": "maywoodkarate.com",
-		"email": "kanes2@aol.com",
+		"email": "maywoodkarate@aol.com",
 		"lat": 40.904666,
 		"lng": -74.062449
 	},
 	
 	{
 		"instructor": [{"name": "Lawrence Schwartz", "rank": "8th Dan"},
-		            {"name": "Lisa Schwartz", "rank": "7th Dan"}],
+		            {"name": "Lisa Schwartz", "rank": "8th Dan"}],
 		"dojo": "Shidokan Rockland",
 		"addr": "450 West Nyack Road, West Nyack, NY 10994",
 		"phone": "(201) 341-9682",
@@ -35,7 +36,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Robert Curtis", "rank": "7th Dan"}],
+		"instructor": [{"name": "Robert Curtis", "rank": "8th Dan"}],
 		"dojo": "Virginia & D.C. Shido-kan",
 		"addr": "AUUC Sanctuary, 10125 Lakehaven Court, Burke VA 22015 USA",
 		"phone": "",
@@ -69,7 +70,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Jim Kass", "rank": "8th Dan"}],
+		"instructor": [{"name": "Jim Kass", "rank": "7th Dan"}],
 		"dojo": "Original Okinawa Karate, Shido-kan Alaska Dojo",
 		"addr": "815 Set Net Drive, Kenai, AK 99611 USA",
 		"phone": "",
@@ -119,7 +120,7 @@
 		"addr": "6920 Wellington Road 124, Guelph, Ontario N1H 6J4, Canada",
 		"phone": "(519) 362-7745",
 		"website": "shidokancanada.com",
-		"email": "rmpaul1@hotmail.com",
+		"email": "shidokan@hotmail.com",
 		"lat": 43.539867,
 		"lng": -80.245074
 	},
@@ -196,13 +197,13 @@
 	
 	{
 		"instructor": [{"name": "Jeremy Brousseau", "rank": "4th Dan"}],
-		"dojo": "ShoDan Karate",
-		"addr": "9 Weaver St. West Warwick, RI 02893 USA",
-		"phone": "(607) 857-5180",
-		"website": "shodan-karate.com",
-		"email": "shodan_sensei@yahoo.com",
+		"dojo": "New England Shidokan Karate",
+		"addr": "1165 Main Ave. Warwick, RI 02886",
+		"phone": "(401) 408-1620",
+		"website": "neskarate.com",
+		"email": "neskarateinfo@gmail.com",
 		"lat": 41.706286,
-		"lng": -72.523669
+		"lng": -71.523669
 	},
 	
 	{

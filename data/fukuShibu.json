@@ -11,17 +11,6 @@
 	},
 	
 	{
-		"instructor": [{"name": "Christopher Defranco", "rank": "5th Dan"}],
-		"dojo": "Original Okinawa Karate Shido-kan Karate-do",
-		"addr": "Vernon, NJ USA",
-		"phone": "(973) 702-2000",
-		"website": "",
-		"email": "cdfshidokan@yahoo.com",
-		"lat": 41.194702,
-		"lng": -74.493794
-	},
-	
-	{
 		"instructor": [{"name": "Amit Michaeli", "rank": "4th Dan"}],
 		"dojo": "Shido-kan Israel",
 		"addr": "Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
@@ -84,24 +73,19 @@
 	},
     
     {
-		"instructor": [{"name": "Scott A. Kramer", "rank": "3rd Dan"}],
-		"dojo": "Charlotte Shido-kan",
-		"addr": "Charlotte, MI 48813 USA",
-		"phone": "(517) 490-8123",
-		"website": "charlottedojo@group.facebook.com",
-		"email": "buddahbelly55@aol.com",
-		"lat": 42.563648,
-		"lng": -84.835821
-	},
-    
-    {
 		"instructor": [{"name": "Stephanie Faulkingham", "rank": "3rd Dan"}],
 		"dojo": "Gateway Shidokan",
-		"addr": "PO Box 2051, MarylandHts, MO 63043",
+		"addr": "PO Box 2051, Maryland Hts., MO 63043",
 		"phone": "(314) 643-7745",
 		"website": "gatewayshidokan.com",
 		"email": "teacher@gatewayshidokan.com"
 	},
+    
+    {
+        "instructor": [{"name": "Judith M. Knupp", "rank": "2nd Dan"}],
+        "dojo": "Atlanta Family Karate, LLC",
+        "addr": "1756 Yellow Creek Rd, Ball Ground, GA 30107"
+    },
     
     {
 		"instructor": [{"name": "Yishay Haspel", "rank": "2nd Dan"}],
@@ -112,16 +96,5 @@
 		"email": "yishay@shidokanisrael.com",
 		"lat": 32.085300,
 		"lng": 34.781768
-	},
-    
-	{
-		"instructor": [{"name": "Dmitry Uritsky", "rank": "1st Dan"}],
-		"dojo": "Shidokan Russia",
-		"addr": "UL 3rd Frunzenskaya 18 Apy. #35 Moscow, 119048 Russia",
-		"phone": "",
-		"website": "",
-		"email": "",
-		"lat": 55.755826,
-		"lng": 37.6173
 	}
 ]
