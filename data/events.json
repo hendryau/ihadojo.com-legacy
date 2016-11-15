@@ -60,7 +60,7 @@
 		"notes": "Shidokan Canada 20th Anniversary Celebration"
 	},
 
-    {
+	{
 		"start": "June 25, 2016",
 		"end": "June 25, 2016",
 		"title": "Pre-test",
@@ -68,7 +68,7 @@
 		"notes": "Class starts at 9 a.m., pre-test will follow."
 	},
     
-    {
+	{
 		"start": "July 22, 2016",
 		"end": "July 22, 2016",
 		"title": "Dan Test",
@@ -97,8 +97,8 @@
 	},
 
 	{
-		"start": "October 1, 2016",
-		"end": "November 16, 2016",
+		"start": "October 2, 2016",
+		"end": "November 1, 2016",
 		"title": "Sensei Iha Okinawa Visit"
 	},
 
@@ -111,12 +111,16 @@
 	{
 		"start": "November 18, 2016",
 		"end": "November 18, 2016",
+		"location": "Washington Woods Middleschool 2055 Washington Rd, Holt, MI 48842",
+		"notes": "6:00PM - 8:00PM. Register here: https://events.membersolutions.com/event_register.asp?content_id=66430",
 		"title": "Shidokan Training Seminar"
 	},
 
 	{
 		"start": "November 19, 2016",
 		"end": "November 19, 2016",
+		"location": "Holt Junior High Gymnasium 1784 Aurelius Rd, Holt, MI 48842",
+		"notes": "Test begins at 9:00am",
 		"title": "Dan Test"
 	},
 
@@ -125,6 +129,12 @@
 		"end": "December 4, 2016",
 		"title": "STL Seminar",
 		"host": "Sherry Basinger"
+	},
+
+	{
+		"start": "December 27, 2016",
+		"end": "January 31, 2017",
+		"title": "Sensei Iha Okinawa Visit"
 	},
 
 	{
