@@ -5,7 +5,7 @@
 		"addr": "4980 Pond Circle West, West Bloomfield, MI 48323 USA",
 		"phone": "(248) 225-7172",
 		"website": "mendersdojo.com",
-		"email": "rmenders@sbcglobal.net",
+		"email": "robertmenders@sbcglobal.net",
 		"lat": 42.513193,
 		"lng": -83.225522
 	},
@@ -13,7 +13,7 @@
 	{
 		"instructor": [{"name": "Mason Senak", "rank": "6th Dan"},
                             {"name": "David Senak", "rank": "8th Dan"},
-		            {"name": "Michael Senak", "rank": "7th Dan"}],
+		            {"name": "Michael Senak", "rank": "8th Dan"}],
 		"dojo": "Maywood Academy of Okinawan Karate",
 		"addr": "47 W. Pleasant Ave PO Box 1161 Maywood, NJ 07607 USA",
 		"phone": "(201) 712-1416",
@@ -47,7 +47,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Allen Mayne", "rank":  "7th Dan"},
+		"instructor": [{"name": "Allen Mayne", "rank":  "8th Dan"},
 		            {"name": "Michael Dantuma", "rank":  "7th Dan"}],
 		"dojo": "Original Okinawa Karate",
 		"addr": "5260 Division Ave. SE Grand Rapids, MI 49548 USA",
@@ -59,7 +59,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Paul Snader", "rank": "7th Dan"}],
+		"instructor": [{"name": "Paul Snader", "rank": "8th Dan"}],
 		"dojo": "The Shido-kan Karate Dojo",
 		"addr": "12-68 River Rd., Fairlawn, NJ 07412 USA",
 		"phone": "(201) 794-1679",
@@ -70,7 +70,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Jim Kass", "rank": "7th Dan"}],
+		"instructor": [{"name": "Jim Kass", "rank": "8th Dan"}],
 		"dojo": "Original Okinawa Karate, Shido-kan Alaska Dojo",
 		"addr": "815 Set Net Drive, Kenai, AK 99611 USA",
 		"phone": "",
@@ -81,7 +81,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Mark McCloud", "rank": "7th Dan"}],
+		"instructor": [{"name": "Mark McCloud", "rank": "8th Dan"}],
 		"dojo": "Original Okinawan Karate of Holt, LLC",
 		"addr": "2002 N. Cedar Street, Holt, MI 48842 USA",
 		"phone": "(517) 694-5001",
@@ -103,7 +103,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Lou Shoha", "rank": "6th Dan"}],
+		"instructor": [{"name": "Lou Shoha", "rank": "7th Dan"}],
 		"dojo": "Bloomfield Hills Shido-kan",
 		"addr": "Bloomfield MI USA",
 		"phone": "",
@@ -161,7 +161,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Yujiro Uza", "rank": "5th Dan"}],
+		"instructor": [{"name": "Yujiro Uza", "rank": "6th Dan"}],
 		"dojo": "Okinawa Shorin Ryu Karate Chicago Beikoku Shidokan",
 		"addr": "100 E. Algonquin Rd., Arlington Hts., IL 60005 USA",
 		"phone": "(972) 351-6405",
