@@ -1,152 +1,67 @@
 [
 	{
-		"start": "December 25, 2015",
-		"end": "February 15, 2016",
-		"title": "Iha Sensei Okinawa Visit",
-		"location": "",
-		"ihaOnly": "true",
-		"host": "",
-		"notes": "",
-		"link": ""
-	},
-	
-	{
-		"start": "February 19, 2016",
-		"end": "February 20, 2016",
-		"title": "North Virginia Seminar",
-		"location": "AUUC Sanctuary, 10125 Lakehaven Court, Burke, VA 22015",
-		"ihaOnly": "false",
-		"host": "Roberto Curtis",
-		"notes": "",
-		"link": ""
-	},
-
-    	{
-		"start": "March 18, 2016",
-		"end": "March 18, 2016",
-		"title": "Shidokan Training Seminar with Sensei Iha",
-		"location": "Holt Jr. High Gym, 1784 N. Aurelius Rd. Holt, Michigan",
-		"ihaOnly": "false",
-		"host": "",
-		"notes": "Friday, March 18th from 6:30-8:30pm. $30 for association members, $40 for non-members. Pre-register here: https://events.membersolutions.com/event_register.asp?content_id=62216"
-	},
-    
-	{
-		"start": "March 19, 2016",
-		"end": "March 19, 2016",
-		"title": "Dan Test",
-		"location": "Hombu Dojo",
-		"ihaOnly": "false",
-		"host": "",
-		"notes": "Test starts at 9am."
-	},
-
-    	{
-		"start": "April 8, 2016",
-		"end": "April 10, 2016",
-		"title": "New Jersey Seminar",
-		"location": "Shidokan Rockland, at the JCC Rockland, 450 West Nyack Road, West Nyack, NY 10994",
-		"ihaOnly": "false",
-		"host": "Lisa and Larry Schwartz",
-		"notes": "",
-		"link": ""
-	},
-
-	{
-		"start": "June 3, 2016",
-		"end": "June 5, 2016",
-		"title": "Canada Seminar",
-		"host": "Roy and Margaret Paul",
-		"notes": "Shidokan Canada 20th Anniversary Celebration"
-	},
-
-	{
-		"start": "June 25, 2016",
-		"end": "June 25, 2016",
-		"title": "Pre-test",
-		"location": "Hombu Dojo",
-		"notes": "Class starts at 9 a.m., pre-test will follow."
-	},
-    
-	{
-		"start": "July 22, 2016",
-		"end": "July 22, 2016",
-		"title": "Dan Test",
-		"location": "Lansing Center, Lansing, MI USA",
-		"notes": "Test runs from 8:30-10:00am."
-	},
-    
-	{
-		"start": "July 22, 2016",
-		"end": "July 24, 2016",
-		"title": "National Training Seminar (NTS)",
-		"location": "Lansing Center, Lansing, MI USA",
-		"ihaOnly": "false",
-		"host": "",
-		"notes": "Beikoku Shidokan 40th Anniversary Celebration",
-		"link": "/nts.html"
-	},
-
-	{
-		"start": "July 27, 2016",
-		"end": "July 27, 2016",
-		"title": "Iha/Miyazato Encore Seminar",
-		"location": "Holt Junior High School, Holt, MI USA",
-		"ihaOnly": "false",
-		"host": ""
-	},
-
-	{
-		"start": "October 2, 2016",
-		"end": "November 1, 2016",
-		"title": "Sensei Iha Okinawa Visit"
-	},
-
-	{
-		"start": "October 22, 2016",
-		"end": "October 22, 2016",
-		"title": "Michigan Area Final Pre-test"
-	},
-
-	{
-		"start": "November 18, 2016",
-		"end": "November 18, 2016",
-		"location": "Washington Woods Middleschool 2055 Washington Rd, Holt, MI 48842",
-		"notes": "6:00PM - 8:00PM. Register here: https://events.membersolutions.com/event_register.asp?content_id=66430",
-		"title": "Shidokan Training Seminar"
-	},
-
-	{
-		"start": "November 19, 2016",
-		"end": "November 19, 2016",
-		"location": "Holt Junior High Gymnasium 1784 Aurelius Rd, Holt, MI 48842",
-		"notes": "Test begins at 10:00am. Everyone is welcome to a get-together after the test at Sensei Iha's house. Please bring a dish to share.",
-		"title": "Dan Test"
-	},
-
-	{
-		"start": "December 2, 2016",
-		"end": "December 4, 2016",
-		"title": "STL Seminar",
-		"host": "Sherry Basinger"
-	},
-
-	{
 		"start": "December 27, 2016",
 		"end": "January 31, 2017",
 		"title": "Sensei Iha Okinawa Visit"
 	},
 
 	{
-		"start": "March 18, 2017",
-		"end": "March 18, 2017",
-		"title": "Dan Test",
-		"notes": "tentative"
+		"start": "March 1, 2017",
+		"end": "March 12, 2017",
+		"title": "Sensei Iha Okinawa Visit"
+	},
+
+	{
+		"start": "March 24, 2017",
+		"end": "March 24, 2017",
+		"title": "Shidokan Training Seminar"
+	},
+
+	{
+		"start": "March 25, 2017",
+		"end": "March 25, 2017",
+		"title": "Dan Test"
+	},
+
+	{
+		"start": "April 21, 2017",
+		"end": "April 23, 2017",
+		"title": "East Coast Seminar"
+	},
+
+	{
+		"start": "June 2, 2017",
+		"end": "June 4, 2017",
+		"title": "Canada Seminar"
 	},
 
 	{
 		"start": "July 20, 2017",
+		"end": "July 20, 2017",
+		"title": "Dan Test"
+	},
+
+	{
+		"start": "July 21, 2017",
 		"end": "July 23, 2017",
-		"title": "National Training Seminar"
+		"title": "National Training Seminar (NTS)"
+	},
+
+	{
+		"start": "November 17, 2017",
+		"end": "November 17, 2017",
+		"title": "Shidokan Training Seminar"
+	},
+
+	{
+		"start": "November 18, 2017",
+		"end": "November 18, 2017",
+		"title": "Dan Test"
+	},
+
+	{
+		"start": "December 1, 2017",
+		"end": "December 3, 2017",
+		"title": "St. Louis Seminar"
 	}
 ]
