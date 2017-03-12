@@ -24,7 +24,7 @@
 	{
 		"instructor": [{"name": "Larry Bowlby", "rank": "4th Dan"}],
 		"dojo": "London Shido-kan",
-		"addr": "Karate Dojo 1010 Dundas St. London, Ontario Canada N5W 3A3",
+		"addr": "1472 Dundas Street London, Ontario Canada N5W 3B9",
 		"phone": "(519) 495-7039",
 		"website": "londonshidokan.com",
 		"email": "ljbowlby@rogers.com",
@@ -66,10 +66,10 @@
     {
 		"instructor": [{"name": "Ameer Syed", "rank": "4th Dan"}],
 		"dojo": "The Arch Shidokan",
-		"addr": "St. Peters, MO; Mailing Address: 12595 Marine Ave, Ste A, St. Louis, MO 63146 USA﻿﻿",
+		"addr": "St. Peters, MO; Mailing Address: 12595 Marine Ave, Ste A, St. Louis, MO 63146 USA",
 		"phone": "(314) 473-5694",
-		"website": "shidokankarate.com",
-		"email": "sensei@shidokankarate.com"
+		"website": "stlshidokan.com",
+		"email": "teacher@stlshidokan.com"
 	},
     
     {
