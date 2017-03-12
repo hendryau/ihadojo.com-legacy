@@ -1,3 +1,4 @@
+
 [
 	{
 		"start": "December 27, 2016",
@@ -14,7 +15,11 @@
 	{
 		"start": "March 24, 2017",
 		"end": "March 24, 2017",
-		"title": "Shidokan Training Seminar"
+		"title": "Shidokan Training Seminar",
+		"location": "Holt Junior High School, 1784 Aurelius Rd, Holt, MI 48842",
+		"notes": "6:00pm - 8:00pm",
+		"linkMsg": "Register",
+		"link": "https://events.membersolutions.com/event_register.asp?content_id=68420"
 	},
 
 	{
