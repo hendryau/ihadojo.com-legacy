@@ -1,4 +1,3 @@
-
 [
 	{
 		"start": "December 27, 2016",
@@ -68,5 +67,12 @@
 		"start": "December 1, 2017",
 		"end": "December 3, 2017",
 		"title": "St. Louis Seminar"
+	},
+	
+	{
+		"start": "August 21, 2019",
+		"end": "August 30, 2019",
+		"title": "Okinawa Trip",
+		"notes": "Sensei Iha's 88th birthday celebration"
 	}
 ]
