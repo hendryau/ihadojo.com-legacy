@@ -34,6 +34,12 @@
 	},
 
 	{
+		"start": "May 4, 2017",
+		"end": "May 8, 2017",
+		"title": "California Seminar"
+	},
+	
+	{
 		"start": "June 2, 2017",
 		"end": "June 4, 2017",
 		"title": "Canada Seminar"
@@ -58,21 +64,21 @@
 	},
 
 	{
+		"start": "November 10, 2017",
+		"end": "November 12, 2017",
+		"title": "St. Louis Seminar"
+	},
+	
+	{
 		"start": "November 17, 2017",
 		"end": "November 17, 2017",
 		"title": "Shidokan Training Seminar"
 	},
-
+	
 	{
 		"start": "November 18, 2017",
 		"end": "November 18, 2017",
 		"title": "Dan Test"
-	},
-
-	{
-		"start": "December 1, 2017",
-		"end": "December 3, 2017",
-		"title": "St. Louis Seminar"
 	},
 	
 	{
