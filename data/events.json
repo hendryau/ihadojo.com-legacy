@@ -52,9 +52,9 @@
 	},
 	
 	{
-	    	"start": "June 21, 2017",
-	    	"end": "June 27, 2017",
-	    	"title": "Alaska Seminar"
+    	"start": "June 21, 2017",
+    	"end": "June 27, 2017",
+    	"title": "Alaska Seminar"
   	},
   
 	{
@@ -66,7 +66,9 @@
 	{
 		"start": "July 21, 2017",
 		"end": "July 23, 2017",
-		"title": "National Training Seminar (NTS)"
+		"title": "National Training Seminar (NTS)",
+		"link": "https://www.eventbrite.com/e/beikoku-shido-kan-karate-do-association-national-training-seminar-nts-17-tickets-33979703207?aff=erelexpmlt",
+		"linkMsg": "Register"
 	},
 
 
