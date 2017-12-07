@@ -207,10 +207,16 @@
 	},
 	
 	{
+		"instructor": [{"name": "Josh Wald-Kerr", "rank": "4th Dan"}],
+		"dojo": "Michigan State Shidokan Karate",
+		"email": "jhwaldkerr@gmail.com",
+		"website": ""
+	},
+	
+	{
 		"instructor": [{"name": "Greg Morales", "rank": "4th Dan"}],
 		"dojo": "Mt. Pleasant Shido-kan",
 		"addr": "Mt. Pleasant, MI USA",
-		"phone": "(989) 621-4193",
 		"website": "",
 		"email": "",
 		"lat": 43.597807,
