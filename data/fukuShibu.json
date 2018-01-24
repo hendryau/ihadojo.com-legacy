@@ -1,16 +1,5 @@
 [	
 	{
-		"instructor": [{"name": "Fortunato Restagno", "rank": "5th Dan"}],
-		"dojo": "Grand River Karate",
-		"addr": "211 St Ann Avenue P.O. Box 157 St. Agatha, Ontario Canada  N0B 2L0",
-		"phone": "",
-		"website": "grkarate.com",
-		"email": "fortunato@grkarate.com",
-		"lat": 43.462075,
-		"lng": -80.51714
-	},
-	
-	{
 		"instructor": [{"name": "Amit Michaeli", "rank": "4th Dan"}],
 		"dojo": "Shido-kan Israel",
 		"addr": "Dormitory 1, Ein Karem Campus The Hebrew University Jerusalem, 91120 Israel",
