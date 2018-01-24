@@ -114,7 +114,7 @@
 	},
 	
 	{
-		"instructor": [{"name": "Roy Paul", "rank": "6th Dan"},
+		"instructor": [{"name": "Roy Paul", "rank": "7th Dan"},
 		           {"name": "Margaret Paul", "rank": "6th Dan"}],
 		"dojo": "Shidokan Canada",
 		"addr": "6920 Wellington Road 124, Guelph, Ontario N1H 6J4, Canada",
@@ -181,6 +181,17 @@
 		"email": "pperfetti@twcny.rr.com amy.nyshidokan@gmail.com",
 		"lat": 42.598332,
 		"lng": -76.181376
+	},
+	
+	{
+		"instructor": [{"name": "Fortunato Restagno", "rank": "5th Dan"}],
+		"dojo": "Grand River Karate",
+		"addr": "211 St Ann Avenue, St. Agatha, Ontario Canada N0B 2L0",
+		"phone": "",
+		"website": "grkarate.com",
+		"email": "fortunato@grkarate.com",
+		"lat": 43.462075,
+		"lng": -80.51714
 	},
 	
 	{
