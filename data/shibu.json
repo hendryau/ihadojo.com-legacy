@@ -193,19 +193,6 @@
 		"lat": 43.462075,
 		"lng": -80.51714
 	},
-	
-	{
-		"instructor": [{"name": "John Dailey", "rank": "4th Dan"},
-		           {"name": "Erika Dailey", "rank": "2th Dan"}],
-		"dojo": "Maryland Shido-kan",
-		"addr": "Laurel, MD USA",
-		"phone": "(301) 805-9516",
-		"website": "kokoro-karate.com",
-		"email": "kokoro-karate@gmail.com",
-		"lat": 39.099275,
-		"lng": -76.848306
-	},
-	
 	{
 		"instructor": [{"name": "Jeremy Brousseau", "rank": "4th Dan"}],
 		"dojo": "New England Shidokan Karate",
