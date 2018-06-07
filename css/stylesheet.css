@@ -137,3 +137,10 @@ li {
 	background-color: #FFCC00;
 	padding: .2em;
 }
+
+#detour-img {
+	width: 75%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
