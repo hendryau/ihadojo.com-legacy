@@ -69,18 +69,37 @@
 	{
 		"start": "November 9, 2018",
 		"end": "November 11, 2018",
-		"title": "St. Louis Seminar",
-		"notes": "Tentative"
+		"title": "St. Louis Seminar"
 	},
 	{
 		"start": "November 16, 2018",
 		"end": "November 16, 2018",
-		"title": "Shidokan Seminar & Directors Meeting"
+		"title": "Shidokan Seminar",
+		"notes": "6:00PM-8:00PM Holt Junior High School, 1784 Aurelius Road, Holt, MI 48824"
+	},
+	{
+		"start": "November 16, 2018",
+		"end": "November 16, 2018",
+		"title": "Instructor Meeting",
+		"notes": "8:30PM-10:00PM Holt Dojo, 2002 Cedar St., Holt, MI 48824"
 	},
 	{
 		"start": "November 17, 2018",
 		"end": "November 17, 2018",
-		"title": "Dan Test & Instructor Training with Sensei Iha"
+		"title": "Instructor's Training",
+		"notes": "9:30AM-10:50AM, Holt High School Gym, Main Campus, 5885 Holt Rd., Holt MI 48842"
+	},
+	{
+		"start": "November 17, 2018",
+		"end": "November 17, 2018",
+		"title": "Dan Testing Candidate Warm-up",
+		"notes": "11:00AM-12:00PM, Holt High School Gym, Main Campus, 5885 Holt Rd., Holt MI 48842"
+	},
+	{
+		"start": "November 17, 2018",
+		"end": "November 17, 2018",
+		"title": "Dan Test",
+		"notes": "12:00PM, Holt High School Gym, Main Campus, 5885 Holt Rd., Holt MI 48842"
 	},
 	{
 		"start": "August 21, 2019",
