@@ -184,11 +184,11 @@
 	},
 	
 	{
-		"instructor": [{"name": "Fortunato Restagno", "rank": "5th Dan"}],
+		"instructor": [{"name": "Fortunato Restagno", "rank": "6th Dan"}],
 		"dojo": "Grand River Karate",
 		"addr": "211 St Ann Avenue, St. Agatha, Ontario Canada N0B 2L0",
 		"phone": "",
-		"website": "grkarate.com",
+		"website": "http://grandriverkarate.ca/",
 		"email": "fortunato@grkarate.com",
 		"lat": 43.462075,
 		"lng": -80.51714
