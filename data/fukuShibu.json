@@ -11,17 +11,6 @@
 	},
 	
 	{
-		"instructor": [{"name": "Larry Bowlby", "rank": "4th Dan"}],
-		"dojo": "London Shido-kan",
-		"addr": "1472 Dundas Street London, Ontario Canada N5W 3B9",
-		"phone": "(519) 495-7039",
-		"website": "londonshidokan.com",
-		"email": "ljbowlby@rogers.com",
-		"lat": 42.993063,
-		"lng": -81.217423
-	},
-	
-	{
 		"instructor": [{"name": "Jason Azzarone", "rank": "4th Dan"}],
 		"dojo": "Shido-kan Tampa",
 		"addr": "Tampa, Florida USA",
@@ -44,8 +33,8 @@
 	
 	{
 		"instructor": [{"name": "J.J. Martinez", "rank": "4th Dan"}],
-		"dojo": "Shidokan Columbia",
-		"addr": "Bogota, Columbia",
+		"dojo": "Shidokan Colombia",
+		"addr": "Bogota, Colombia",
 		"phone": "",
 		"website": "",
 		"email": "jjmartinezt@gmail.com"
