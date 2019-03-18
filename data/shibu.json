@@ -188,8 +188,8 @@
 		"dojo": "Grand River Karate",
 		"addr": "211 St Ann Avenue, St. Agatha, Ontario Canada N0B 2L0",
 		"phone": "",
-		"website": "grandriverkarate.ca/",
-		"email": "fortunato@grkarate.com",
+		"website": "grandriverkarate.com/",
+		"email": "fortunato@grandriverkarate.com",
 		"lat": 43.462075,
 		"lng": -80.51714
 	},
@@ -209,15 +209,5 @@
 		"dojo": "Michigan State Shidokan Karate",
 		"email": "jhwaldkerr@gmail.com",
 		"website": ""
-	},
-	
-	{
-		"instructor": [{"name": "Greg Morales", "rank": "4th Dan"}],
-		"dojo": "Mt. Pleasant Shido-kan",
-		"addr": "Mt. Pleasant, MI USA",
-		"website": "",
-		"email": "",
-		"lat": 43.597807,
-		"lng": -84.767514
 	}
 ]
